@@ -196,4 +196,9 @@ public class FormationPanelController : MonoBehaviour
                 characterData[index].cls, characterData[index].charSkillSet.set[skillNumber].type);
         }
     }
+
+    public void SwapInformation()
+    {
+
+    }
 }
