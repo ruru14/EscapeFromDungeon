@@ -212,8 +212,8 @@ public class BattleManager : MonoBehaviour
                 type = "Gold";
                 break;
         }
-
-        enemyGenerator(PlayerPrefs.GetInt(PrefsEntity.CurrentFloor), type, DCEnemyList);
+        floorLevel = PlayerPrefs.GetInt(PrefsEntity.CurrentFloor);
+        enemyGenerator(floorLevel, type, DCEnemyList);
 
 
         //버튼에 이벤트 리스너 부착
@@ -989,6 +989,10 @@ public class BattleManager : MonoBehaviour
                 break;
 
             case BattleState.END: //전투의 끝, 배틀 매니저 초기화
+                if (player == null) {
+                    curState = BattleState.READY;
+                    break;
+                }
                 resetCam();
                 player2origin();
 

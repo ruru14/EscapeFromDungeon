@@ -634,6 +634,8 @@ public class NomalEnemyPassive3 : NormalEnemyPassives
 public class NomalEnemyPassive4 : NormalEnemyPassives
 {
     public Buff selfBuff;
+    public NormalEnemyPassive4PhyDamaged phy;
+    public NormalEnemyPassive4MgcDamaged mgc;
     public NomalEnemyPassive4(SkillNormalEnemy set) : base(set)
     {
         targetNum = 1;
@@ -647,12 +649,14 @@ public class NomalEnemyPassive4 : NormalEnemyPassives
     {
         isInit = true;
         selfBuff = new Buff();
+        phy = new NormalEnemyPassive4PhyDamaged(set, 100);
+        mgc = new NormalEnemyPassive4MgcDamaged(set, 100);
+
         selfBuff.user = set.user;
         selfBuff.step = 0;
         selfBuff.turn = 100;
         set.user.buffStack.Add(selfBuff);
-        NormalEnemyPassive4PhyDamaged phy = new NormalEnemyPassive4PhyDamaged(set, 100);
-        NormalEnemyPassive4MgcDamaged mgc = new NormalEnemyPassive4MgcDamaged(set, 100);
+        
         set.user.phyDamagedStack.Add(phy);
         set.user.mgcDamagedStack.Add(mgc);
     }

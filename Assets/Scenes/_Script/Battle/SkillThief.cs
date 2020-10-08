@@ -526,8 +526,7 @@ public class ThiefPassive4 : ThiefPassives
         coef = 1;
 
         
-        debuff = new List<Buff>();
-        enemies = new List<BattleChar>();
+        
     }
 
     public override void initSkill()
@@ -537,6 +536,8 @@ public class ThiefPassive4 : ThiefPassives
 
     public override void useSkill(List<BattleChar> target)
     {
+        debuff = new List<Buff>();
+        enemies = new List<BattleChar>();
         foreach (BattleChar bc in target)
         {
             bc.SetMagicDamage(set.user, (0.6f + 0.03f * level), level, coef * set.user.getFinalDamage() * CriticalTest());

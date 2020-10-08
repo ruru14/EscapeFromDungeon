@@ -368,8 +368,6 @@ public class ArcherPassive2 : ArcherPassives
         coef = 1;
 
         
-        debuff = new List<Buff>();
-        friends = new List<BattleChar>();
     }
 
     public override void initSkill()
@@ -379,6 +377,9 @@ public class ArcherPassive2 : ArcherPassives
 
     public override void useSkill(List<BattleChar> target)
     {
+        debuff = new List<Buff>();
+        friends = new List<BattleChar>();
+
         foreach (BattleChar bc in target)
         {
             if (friends.Exists(x => x == bc))

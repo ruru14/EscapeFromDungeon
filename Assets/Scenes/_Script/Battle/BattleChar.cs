@@ -457,7 +457,7 @@ public class BattleChar : MonoBehaviour
     }
 
     public float GetIncAP() {
-        return DC.getIncAP() * (buffIncAP + DC.charEquipSet.getIncAP()) * stateIncAP * Time.deltaTime;
+        return DC.getIncAP() * (buffIncAP + DC.charEquipSet.getIncAP()) * stateIncAP * Time.deltaTime * 1.5f;
     }
 
     public float getCritical() {

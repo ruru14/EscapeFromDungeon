@@ -541,13 +541,12 @@ public class PriestPassive4 : PriestPassives
         image = "battle/Priest/Skill/PriestPassive4";
         name = "sacredLight";
         explain = "";
+        this.set = set;
 
         this.level = level;
         coef = 1;
 
 
-        friends = new List<BattleChar>();
-        skills = new List<Buff>();
     }
 
 
@@ -560,6 +559,8 @@ public class PriestPassive4 : PriestPassives
     public override void useSkill(List<BattleChar> target)
     {
         base.useSkill(target);
+        friends = new List<BattleChar>();
+        skills = new List<Buff>();
 
         foreach (BattleChar bc in target)
         {
