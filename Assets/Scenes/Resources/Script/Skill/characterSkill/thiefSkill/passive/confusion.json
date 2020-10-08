@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 30% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 32% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 34% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 36% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 38% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 40% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 42% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 44% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 46% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "혼란",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면, 1턴간 속도가 48% 증가합니다.",
+        "explain": "빠른 속도로 적들을 당황하게 만듭니다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

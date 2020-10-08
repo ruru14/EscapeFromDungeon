@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 15%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 16%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 17%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 18%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 19%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 20%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 21%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 22%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 23%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "마나 흡수",
+        "img" : "<Skill Image URL>",
+        "ability" : "적을 직접 처치하면 자신의 최대 MP의 24%만큼 MP를 회복합니다",
+        "explain": "마법을 이용하여 적의 마나를 흡수합니다. ",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 10% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  5,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 12% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  8,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 14% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  11,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 16% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  14,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 18% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  17,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 20% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  20,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 22% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  23,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 24% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  26,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 26% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  29,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "살기",
+        "img" : "<Skill Image URL>",
+        "ability" : "2턴간 적 모두의 물리방어력과 마법방어력을 28% 감소시킵니다.",
+        "explain": "살기로 적들을 제압합니다.",
+        "cost" :  32,
+        "upgrade" : 10
+      }
+    ]
+}

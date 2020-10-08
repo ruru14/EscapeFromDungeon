@@ -1,0 +1,10 @@
+{
+  "img": "",
+  "type": 1,
+  "cls": 0,
+  "grade": 3,
+  "name": "Grim Reaper's Clock",
+  "phyDEF": 15,
+  "macDEF": 12,
+  "critical" : 0.05
+}

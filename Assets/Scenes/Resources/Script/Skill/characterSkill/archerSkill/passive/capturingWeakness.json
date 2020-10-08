@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 5% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 5.5% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 6% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 6.5% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 7% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 7.5% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 8% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 8.5% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 9% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "약점 포착",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 모두의 치명타율이 9.5% 증가합니다. ",
+        "explain": "적의 취약점을 아군에게 알려줘서 협공합니다. ",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

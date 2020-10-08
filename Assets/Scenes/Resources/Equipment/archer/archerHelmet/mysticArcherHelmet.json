@@ -1,0 +1,10 @@
+{
+  "img": "",
+  "type": 0,
+  "cls": 1,
+  "grade": 3,
+  "name": "Bull's Eye",
+  "phyDEF": 10,
+  "macDEF": 8,
+  "critical" : 0.05
+}

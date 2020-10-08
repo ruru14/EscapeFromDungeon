@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 20% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 21% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 22% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 23% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 24% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 25% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 26% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 27% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 28% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "방패 숙련",
+        "img" : "<Skill Image URL>",
+        "ability" : "방패를 착용한 경우, 공격 시에 29% 확률로 피해를 입는 적을 1턴간 기절시킵니다.",
+        "explain": "방패를 능숙하게 다루어 공격에도 이용합니다.",
+        "cost" : 0,
+        "upgrade" : 10
+      }
+    ]
+}

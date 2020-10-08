@@ -1,0 +1,10 @@
+{
+    "img" : "",
+    "type" : 3,
+    "cls" : 1,
+    "grade" : 3,
+    "name" : "Eagle Eye",
+    "phyATK" : 25,
+    "macATK" : 20,
+    "critical" : 0.1
+}

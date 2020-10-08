@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 200%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  9,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 215%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  12,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 230%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  15,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 245%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  18,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 260%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  21,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 275%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  24,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 290%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  27,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 305%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  30,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 320%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  33,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "암살",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 335%의 물리데미지를 입힙니다.",
+        "explain": "적의 배후로 침투해 치명적인 일격을 가합니다.",
+        "cost" :  36,
+        "upgrade" : 10
+      }
+    ]
+}

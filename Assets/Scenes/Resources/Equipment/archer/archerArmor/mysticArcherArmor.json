@@ -1,0 +1,10 @@
+{
+  "img": "",
+  "type": 1,
+  "cls": 1,
+  "grade": 3,
+  "name": "Sylph's Bless",
+  "phyDEF": 15,
+  "macDEF": 12,
+  "critical" : 0.05
+}

@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 20%에 해당하는 MP를 소모하여, 아군 전체의 MP를 20%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 21%에 해당하는 MP를 소모하여, 아군 전체의 MP를 21%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 22%에 해당하는 MP를 소모하여, 아군 전체의 MP를 22%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 23%에 해당하는 MP를 소모하여, 아군 전체의 MP를 23%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 24%에 해당하는 MP를 소모하여, 아군 전체의 MP를 24%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 25%에 해당하는 MP를 소모하여, 아군 전체의 MP를 25%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 26%에 해당하는 MP를 소모하여, 아군 전체의 MP를 26%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 27%에 해당하는 MP를 소모하여, 아군 전체의 MP를 27%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 28%에 해당하는 MP를 소모하여, 아군 전체의 MP를 28%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "마나 충전",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 최대 MP의 29%에 해당하는 MP를 소모하여, 아군 전체의 MP를 29%씩 회복시킵니다. ",
+        "explain": "자신의 마나를 모두와 공유합니다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

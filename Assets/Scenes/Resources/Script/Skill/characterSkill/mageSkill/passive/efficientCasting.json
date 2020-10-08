@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 4%씩 증가한다. (마법공격력 최대 20% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 5%씩 증가한다. (마법공격력 최대 25% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 6%씩 증가한다. (마법공격력 최대 30% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 7%씩 증가한다. (마법공격력 최대 35% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 8%씩 증가한다. (마법공격력 최대 40% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 9%씩 증가한다. (마법공격력 최대 45% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 10%씩 증가한다. (마법공격력 최대 50% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 11%씩 증가한다. (마법공격력 최대 55% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 12%씩 증가한다. (마법공격력 최대 60% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "효율적인 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 현재 MP 비율이 20%를 넘길 때마다 마법공격력이 13%씩 증가한다. (마법공격력 최대 65% 증가)",
+        "explain": "효율적인 마나 사용으로 마법의 위력이 강해진다.",
+        "cost" :  0,
+        "upgrade" : 1
+      }
+    ]
+}

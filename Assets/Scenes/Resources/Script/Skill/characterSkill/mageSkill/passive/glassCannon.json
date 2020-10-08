@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 10% 증가하고, 물리/마법방어력은 5% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 12% 증가하고, 물리/마법방어력은 6% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 14% 증가하고, 물리/마법방어력은 7% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 16% 증가하고, 물리/마법방어력은 8% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 18% 증가하고, 물리/마법방어력은 9% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 20% 증가하고, 물리/마법방어력은 10% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 22% 증가하고, 물리/마법방어력은 11% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 24% 증가하고, 물리/마법방어력은 12% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 26% 증가하고, 물리/마법방어력은 13% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "유리 대포",
+        "img" : "<Skill Image URL>",
+        "ability" : "자신의 마법공격력이 28% 증가하고, 물리/마법방어력은 14% 감소한다.",
+        "explain": "보다 적극적인 위치에서 공격한다. ",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

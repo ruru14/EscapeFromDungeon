@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 10%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  13,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 12%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  19,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 14%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  25,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 16%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  31,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 18%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  37,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 20%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  43,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 22%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  49,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 24%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  55,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 26%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  61,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "성역",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 전체에게 2턴간 최대 HP의 28%씩 회복되는 지속 회복을 부여한다. ",
+        "explain": "성역을 선포하여 동료들에게 신의 가호를 부여한다.",
+        "cost" :  67,
+        "upgrade" : 10
+      }
+    ]
+}

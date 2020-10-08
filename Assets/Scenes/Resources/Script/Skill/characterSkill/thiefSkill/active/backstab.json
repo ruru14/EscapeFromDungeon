@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 150%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  5,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 160%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  7,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 170%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  9,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 180%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  11,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 190%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  13,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 200%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  15,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 210%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  17,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 220%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  19,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 230%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  21,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "기습",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 자신의 물리공격력의 240%의 물리데미지를 입힙니다.",
+        "explain": "적이 방심한 틈에 기습합니다.",
+        "cost" :  23,
+        "upgrade" : 10
+      }
+    ]
+}

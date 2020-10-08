@@ -1,0 +1,17 @@
+{
+    "img" : "Equipment/sampleArcher",
+    "name" : "sampleArcher",
+    "type" : 0,
+    "cls" : 1,
+    "grade" : 1,
+    "maxHP" : 2,
+    "maxMP" : 3,
+    "incMP" : 1,
+    "incAP" : 2,
+    "phyATK" : 5,
+    "phyDEF" : 10,
+    "macATK" : 6,
+    "macDEF" : 11,
+    "healEFC" : 1.1,
+    "critical" : 0.2
+}

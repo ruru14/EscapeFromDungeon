@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 15% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  6,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 18% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  10,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 21% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  14,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 24% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  18,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 27% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  22,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 30% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  26,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 33% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  30,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 36% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  34,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 39% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  38,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "보호의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법방어력을 42% 증가시킨다.",
+        "explain": "신성한 힘을 이용하여 아군의 방어력을 강화시킨다. ",
+        "cost" :  42,
+        "upgrade" : 10
+      }
+    ]
+}

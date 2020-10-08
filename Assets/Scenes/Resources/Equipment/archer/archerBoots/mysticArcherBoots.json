@@ -1,0 +1,10 @@
+{
+  "img": "",
+  "type": 2,
+  "cls": 1,
+  "grade": 3,
+  "name": "Swift Step",
+  "phyDEF": 10,
+  "macDEF": 8,
+  "spd" : 0.05
+}

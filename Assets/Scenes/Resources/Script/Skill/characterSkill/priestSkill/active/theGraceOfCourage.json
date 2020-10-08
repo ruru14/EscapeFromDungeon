@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 10% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  6,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 13% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  10,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 16% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  14,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 19% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  18,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 22% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  22,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 25% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  26,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 28% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  30,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 31% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  34,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 34% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  38,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "용기의 은총",
+        "img" : "<Skill Image URL>",
+        "ability" : "3턴간 지정한 아군의 물리/마법공격력을 37% 증가시킨다. ",
+        "explain": "동료의 무기에 축복을 부여한다.",
+        "cost" :  42,
+        "upgrade" : 10
+      }
+    ]
+}

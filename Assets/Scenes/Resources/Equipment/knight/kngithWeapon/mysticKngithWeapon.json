@@ -1,0 +1,11 @@
+{
+    "img" : "",
+    "type" : 3,
+    "cls" : 3,
+    "grade" : 3,
+    "name" : "Deathly Blade",
+    "phyATK" : 30,
+    "macATK" : 15,
+    "maxHP" : 0.1,
+    "maxMP" : 0.1
+}

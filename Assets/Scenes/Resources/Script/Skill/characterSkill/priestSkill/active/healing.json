@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 20%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" :  5,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 22%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" :  8,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 24%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" : 11,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 26%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" :  14,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 28%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" :  17,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 30%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" :  20,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 32%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" :  23,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 34%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" :  26,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 36%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" :  29,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "회복 마법",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군 1인의 HP를 최대 HP의 38%만큼 회복시키고, 모든 상태이상, 약화효과를 해제시킨다. ",
+        "explain": "아군에게 회복 마법을 시전한다.",
+        "cost" :  32,
+        "upgrade" : 10
+      }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 2%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 2.2%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 2.4%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 2.6%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 2.8%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 3%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 3.2%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 3.4%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 3.6%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "마무리 공격",
+        "img" : "<Skill Image URL>",
+        "ability" : "공격당하는 대상의 잃은 HP 5%마다 최종 물리/마법데미지가 3.8%씩 증가합니다. (최대 30% 증가)",
+        "explain": "체력이 적은 적을 포착하여 공격합니다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

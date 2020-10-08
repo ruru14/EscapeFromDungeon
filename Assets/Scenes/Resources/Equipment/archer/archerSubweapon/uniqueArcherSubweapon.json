@@ -1,0 +1,10 @@
+{
+    "img" : "",
+    "type" : 4,
+    "cls" : 1,
+    "grade" : 2,
+    "name" : "명사수의 화살통",
+    "phyATK" : 8,
+    "macATK" : 6,
+    "spd" : 0.05
+}

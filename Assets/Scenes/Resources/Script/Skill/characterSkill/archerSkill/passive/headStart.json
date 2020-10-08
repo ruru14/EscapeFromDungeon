@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 30% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 33% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 36% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 39% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 42% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 45% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 48% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 51% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 54% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "기선 제압",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작 시, 첫 공격은 최종 물리/마법데미지가 57% 증가합니다. ",
+        "explain": "강력한 첫공격으로 적의 기선을 제압합니다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "img" : "",
+    "type" : 4,
+    "cls" : 1,
+    "grade" : 3,
+    "name" : "Deadman's Legacy",
+    "phyATK" : 15,
+    "macATK" : 12,
+    "spd" : 0.07,
+    "maxPhyATK" : 0.05
+}

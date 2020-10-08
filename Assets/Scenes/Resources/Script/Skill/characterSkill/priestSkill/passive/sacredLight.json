@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 1%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 1.5%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 2%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 2.5%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 3%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 3.5%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 4%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 4.5%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 5%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "신성한 빛",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴마다 아군 전체의 HP/MP를 5.5%씩 회복시킨다.",
+        "explain": "성직자는 존재 자체로도 동료들에게 안도감을 준다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

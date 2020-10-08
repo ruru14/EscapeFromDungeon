@@ -1,0 +1,10 @@
+{
+  "img": "",
+  "type": 1,
+  "cls": 2,
+  "grade": 3,
+  "name": "Absolute Defense Magic",
+  "phyDEF": 10,
+  "macDEF": 18,
+  "maxMacDEF" : 0.05
+}

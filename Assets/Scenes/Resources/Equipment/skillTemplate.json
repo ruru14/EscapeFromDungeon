@@ -1,0 +1,74 @@
+{
+    "skill" : [
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        },
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        },
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        },
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        },
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        },
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        },
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        },
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        },
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        },
+        {
+            "skillName" : "<Skill Name>",
+            "img" : "<Skill Image URL",
+            "ability" : "<Skill Detail Ability>",
+            "explain" : "<Skill Outline Explain>",
+            "upgrade" : "<int><Skill Level>"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 20% 확률로 받는 데미지를 30% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 21% 확률로 받는 데미지를 33% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 22% 확률로 받는 데미지를 36% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 23% 확률로 받는 데미지를 39% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 24% 확률로 받는 데미지를 42% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 25% 확률로 받는 데미지를 45% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 26% 확률로 받는 데미지를 48% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 27% 확률로 받는 데미지를 51% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 28% 확률로 받는 데미지를 54% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "빠른 방어",
+        "img" : "<Skill Image URL>",
+        "ability" : "도발 상태인 경우, 자신이 피해를 받을 때 29% 확률로 받는 데미지를 57% 감소시킵니다.",
+        "explain": "적의 공격에 민첩하게 대처합니다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

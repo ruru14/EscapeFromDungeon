@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 180%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  8,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 190%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  11,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 200%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  14,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 210%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  17,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 220%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  20,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 230%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  23,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 240%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  26,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 250%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  29,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 260%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  32,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "파워 샷",
+        "img" : "battle/Archer/skill/ArcherActive2",
+        "ability" : "적 1명에게 자신의 물리공격력의 270%의 물리데미지를 입힙니다.",
+        "explain": "적에게 파괴력이 강한 화살을 날립니다.",
+        "cost" :  35,
+        "upgrade" : 10
+      }
+    ]
+}

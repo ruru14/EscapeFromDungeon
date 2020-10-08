@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 2% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 2.5% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 3% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 3.5% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 4% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 4.5% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 5% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 5.5% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 6% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "집중",
+        "img" : "<Skill Image URL>",
+        "ability" : "회복 마법을 받는 아군의 잃은 HP 4%마다 스킬로 인한 회복량이 6.5% 증가한다. (최대 20% 증가)",
+        "explain": "아군이 위험한 상황에도 침착하게 마법을 시전한다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

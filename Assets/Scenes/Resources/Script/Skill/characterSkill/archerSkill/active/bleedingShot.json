@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 70%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 30%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" :  6,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 75%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 32%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" :  10,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 80%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 34%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" :  14,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 85%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 36%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" :  18,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 90%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 38%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" : 22,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 95%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 40%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" :  26,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 100%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 42%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" :  30,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 105%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 44%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" :  34,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 110%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 46%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" :  38,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "출혈 화살",
+        "img" : "battle/Archer/skill/ArcherActive4",
+        "ability" : "적 1명에게 자신의 마법공격력의 115%의 마법데미지를 입히고, 피해를 입은 적은 3턴간 출혈 상태가 되어 매 턴마다 궁수의 마법공격력의 48%만큼의 마법데미지를 입습니다.",
+        "explain": "적의 상처를 헤집는 화살로 출혈을 유도합니다.",
+        "cost" :  42,
+        "upgrade" : 10
+      }
+    ]
+}

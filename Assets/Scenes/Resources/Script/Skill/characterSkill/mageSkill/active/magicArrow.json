@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 180%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  6,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 195%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  9,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 210%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  12,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 225%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  15,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 240%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  18,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 255%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  21,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 270%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  24,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 285%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  27,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 300%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  30,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "매직 애로우",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인에게 마법공격력의 315%의 마법데미지로 공격합니다",
+        "explain": "마법을 이용하여 화살을 만들어 공격합니다. ",
+        "cost" :  33,
+        "upgrade" : 10
+      }
+    ]
+}

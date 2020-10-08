@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 125%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  6,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 135%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  9,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 145%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  12,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 155%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  15,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 165%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  18,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 175%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  21,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 185%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  24,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 195%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  27,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 205%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  30,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "마법 화살",
+        "img" : "battle/Archer/skill/ArcherActive5",
+        "ability" : "적 1명에게 자신의 마법공격력의 215%의 마법데미지로 공격합니다.",
+        "explain": "마법이 부여된 화살을 발사합니다.",
+        "cost" :  33,
+        "upgrade" : 10
+      }
+    ]
+}

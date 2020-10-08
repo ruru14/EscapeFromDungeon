@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 5%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 5.5%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 6%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 6.5%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 7%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 7.5%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 8%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 8.5%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 9%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "깨달음",
+        "img" : "<Skill Image URL>",
+        "ability" : "매 턴, 자신의 최대 MP의 9.5%만큼 MP를 회복합니다.",
+        "explain": "마법의 이치를 깨달아 마나 순환에 대해 깨닫는다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

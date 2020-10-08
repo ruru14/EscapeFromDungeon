@@ -1,0 +1,10 @@
+{
+    "img" : "",
+    "type" : 3,
+    "cls" : 0,
+    "grade" : 3,
+    "name" : "Assasin's Mark",
+    "phyATK" : 25,
+    "macATK" : 20,
+    "critical" : 0.1
+}

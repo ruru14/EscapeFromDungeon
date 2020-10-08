@@ -1,0 +1,10 @@
+{
+  "img": "",
+  "type": 3,
+  "cls": 4,
+  "grade": 3,
+  "name": "Divine Grace",
+  "phyATK" : 10,
+  "macATK": 25,
+  "healEFC" : 0.2
+}

@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 30% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 33% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 36% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 39% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 42% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 45% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 48% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 51% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 54% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "정찰",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투가 시작되고, 1턴간 속도가 57% 증가합니다.",
+        "explain": "전투가 시작되기 전, 척후로써 전투에 대비합니다.",
+        "cost" : 0,
+        "upgrade" : 10
+      }
+    ]
+}

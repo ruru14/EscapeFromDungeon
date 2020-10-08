@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 50% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  6,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 53% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  9,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 56% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  12,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 59% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  15,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 62% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  18,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 65% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  21,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 68% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  24,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 71% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  27,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 74% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  30,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "디스펠",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 1인의 무작위 강화효과 1개를 77% 확률로 제거합니다. 제거에 성공하면 MP 소모없이 디스펠을 동일 대상에게 재시전합니다.",
+        "explain": "적의 강화 효과를 해제합니다. ",
+        "cost" :  33,
+        "upgrade" : 10
+      }
+    ]
+}

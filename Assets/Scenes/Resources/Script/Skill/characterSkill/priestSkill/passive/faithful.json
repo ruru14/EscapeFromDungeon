@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 20% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 25% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 30% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 35% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 40% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 45% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 50% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 55% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 60% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "신앙심",
+        "img" : "<Skill Image URL>",
+        "ability" : "아군의 HP 회복과 강화 효과가 65% 상승한다. ",
+        "explain": "성직자의 독실한 신앙심으로 인해 신성 마법이 강화된다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}

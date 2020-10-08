@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 100%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  10,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 110%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  16,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 120%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  22,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 130%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  28,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 140%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  34,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 150%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  40,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 160%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  46,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 170%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  52,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 180%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  58,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "마나 폭격",
+        "img" : "<Skill Image URL>",
+        "ability" : "적 모두에게 마법공격력의 190%의 마법데미지로 공격합니다.",
+        "explain": "마나를 끌어모아 적 전체에게 폭격을 가합니다. ",
+        "cost" :  64,
+        "upgrade" : 10
+      }
+    ]
+}

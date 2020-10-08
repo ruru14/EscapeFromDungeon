@@ -1,0 +1,84 @@
+{
+    "skill" : [
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 60%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 1
+      },
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 63%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 2
+      },
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 66%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 3
+      },
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 69%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 4
+      },
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 72%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 5
+      },
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 75%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 6
+      },
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 78%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 7
+      },
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 81%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 8
+      },
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 84%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 9
+      },
+      {
+        "skillName" : "폭발 덫",
+        "img" : "<Skill Image URL>",
+        "ability" : "전투 시작시에 모든 적들에게 자신의 마법공격력의 87%만큼의 마법데미지를 입힙니다.",
+        "explain": "전투 시작 전, 폭발을 일으키는 덫을 설치해둡니다.",
+        "cost" :  0,
+        "upgrade" : 10
+      }
+    ]
+}
