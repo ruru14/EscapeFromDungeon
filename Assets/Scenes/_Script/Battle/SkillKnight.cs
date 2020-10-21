@@ -487,7 +487,7 @@ public class KnightPassive3 : KnightPassives
 
     public override void initSkill()
     {
-        if (set.user.DC.charEquipSet.subWeapon.cls == EquipClass.Knight) isInit = true;
+        if (set.user.DC.charEquipSet.set[4].cls == EquipClass.Knight) isInit = true;
         else isInit = false;
     }
 

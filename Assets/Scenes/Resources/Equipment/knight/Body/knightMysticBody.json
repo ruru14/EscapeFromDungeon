@@ -1,0 +1,278 @@
+{
+  "equipment": [
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 25,
+      "macDEF": 20,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 28,
+      "macDEF": 22,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 32,
+      "macDEF": 25,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 36,
+      "macDEF": 28,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 41,
+      "macDEF": 32,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 47,
+      "macDEF": 36,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 54,
+      "macDEF": 41,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 62,
+      "macDEF": 47,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 71,
+      "macDEF": 54,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 81,
+      "macDEF": 62,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 93,
+      "macDEF": 71,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 106,
+      "macDEF": 81,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 121,
+      "macDEF": 93,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 136,
+      "macDEF": 106,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 159,
+      "macDEF": 121,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 182,
+      "macDEF": 139,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 209,
+      "macDEF": 159,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 240,
+      "macDEF": 182,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 276,
+      "macDEF": 209,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 317,
+      "macDEF": 240,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Knight/Body/knightMysticBody",
+      "name": "Commander's Dignity ",
+      "type": 1,
+      "cls": 3,
+      "grade": 3,
+      "phyDEF": 364,
+      "macDEF": 276,
+      "phyDEF_Rate": 5,
+      "macDEF_Rate": 5,
+      "upgrade": 20
+    }
+
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "equipment": [
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 15,
+        "macATK": 12,
+        "upgrade": 0
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 17,
+        "macATK": 14,
+        "upgrade": 1
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 19,
+        "macATK": 16,
+        "upgrade": 2
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 22,
+        "macATK": 18,
+        "upgrade": 3
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 25,
+        "macATK": 20,
+        "upgrade": 4
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 29,
+        "macATK": 23,
+        "upgrade": 5
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 33,
+        "macATK": 26,
+        "upgrade": 6
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 37,
+        "macATK": 29,
+        "upgrade": 7
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 42,
+        "macATK": 33,
+        "upgrade": 8
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 7,
+        "phyATK_Rate": 5,
+        "phyATK": 48,
+        "macATK": 37,
+        "upgrade": 9
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK": 55,
+        "macATK": 42,
+        "upgrade": 10
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK": 63,
+        "macATK": 48,
+        "upgrade": 11
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK": 72,
+        "macATK": 55,
+        "upgrade": 12
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK": 82,
+        "macATK": 63,
+        "upgrade": 13
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK": 94,
+        "macATK": 72,
+        "upgrade": 14
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK":108,
+        "macATK": 82,
+        "upgrade": 15
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK": 124,
+        "macATK": 94,
+        "upgrade": 16
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK": 142,
+        "macATK": 108,
+        "upgrade": 17
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK": 163,
+        "macATK": 124,
+        "upgrade": 18
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 11,
+        "phyATK_Rate": 5,
+        "phyATK": 187,
+        "macATK": 142,
+        "upgrade": 19
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerMysticSubweapon",
+        "name": "Commander's Quiver",
+        "type": 4,
+        "cls": 1,
+        "grade": 3,
+        "speed": 20,
+        "phyATK_Rate": 5,
+        "phyATK": 215,
+        "macATK": 163,
+        "upgrade": 20
+      }
+  ]
+}

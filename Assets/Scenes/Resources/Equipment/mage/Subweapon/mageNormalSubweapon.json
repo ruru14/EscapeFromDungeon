@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1,
+      "speed" :0,
+      "macATK": 1,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1, 
+      "speed" :0,
+      "macATK": 2,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1, 
+      "speed" :0,
+      "macATK": 3,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1,
+      "speed" :0,
+      "macATK": 4,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1, 
+      "speed" :0,
+      "macATK": 5,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1, 
+      "speed" :0,
+      "macATK": 6,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1, 
+      "speed" :0,
+      "macATK": 7,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1, 
+      "speed" :0,
+      "macATK": 8,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1, 
+      "speed" :0,
+      "macATK": 9,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 1, 
+      "speed" :0,
+      "macATK": 10,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2, 
+      "speed" :0,
+      "macATK": 12,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2, 
+      "speed" :0,
+      "macATK": 14,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2, 
+      "speed" :0,
+      "macATK": 16,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2,
+      "speed" :0,
+      "macATK": 18,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2,
+      "speed": 0,
+      "macATK": 20,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2, 
+      "speed" :0,
+      "macATK": 23,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2, 
+      "speed" :0,
+      "macATK": 26,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2, 
+      "speed" :0,
+      "macATK": 29,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2, 
+      "speed" :0,
+      "macATK": 33,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 2, 
+      "speed" :0,
+      "macATK": 38,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageNormalSubweapon",
+      "name": "싸구려 수정구",
+      "type": 4,
+      "cls": 2,
+      "grade": 0,
+      "incMP": 3,
+      "speed" :0,
+      "macATK": 44,
+      "upgrade": 20
+    }
+
+
+  ]
+}

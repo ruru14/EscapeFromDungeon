@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 8,
+      "macDEF": 12,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 9,
+      "macDEF": 14,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 10,
+      "macDEF": 16,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 12,
+      "macDEF": 18,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 14,
+      "macDEF": 20,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 16,
+      "macDEF": 23,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 18,
+      "macDEF": 26,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 20,
+      "macDEF": 29,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 23,
+      "macDEF": 33,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 26,
+      "macDEF": 37,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 29,
+      "macDEF": 42,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 33,
+      "macDEF": 48,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 37,
+      "macDEF": 55,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 42,
+      "macDEF": 63,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 48,
+      "macDEF": 72,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 55,
+      "macDEF": 82,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 63,
+      "macDEF": 94,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 72,
+      "macDEF": 108,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 82,
+      "macDEF": 124,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 94,
+      "macDEF": 142,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Priest/Head/priestMysticHead",
+      "name": "Phrase of Bible",
+      "type": 0,
+      "cls": 4,
+      "grade": 3,
+      "incMP": 2,
+      "phyDEF": 108,
+      "macDEF": 163,
+      "upgrade": 20
+    }
+
+
+  ]
+}

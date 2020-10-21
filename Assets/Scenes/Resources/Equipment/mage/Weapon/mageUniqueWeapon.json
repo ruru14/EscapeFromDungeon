@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 8,
+      "macATK": 15,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 9,
+      "macATK": 17,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 10,
+      "macATK": 19,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 12,
+      "macATK": 21,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 14,
+      "macATK": 24,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 16,
+      "macATK": 27,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 18,
+      "macATK": 31,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 20,
+      "macATK": 35,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 23,
+      "macATK": 40,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 26,
+      "macATK": 46,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 29,
+      "macATK": 53,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 33,
+      "macATK": 61,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 37,
+      "macATK": 70,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 42,
+      "macATK": 80,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 48,
+      "macATK": 92,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 55,
+      "macATK": 105,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 63,
+      "macATK": 120,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 72,
+      "macATK": 138,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 82,
+      "macATK": 158,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 94,
+      "macATK": 181,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageUniqueWeapon",
+      "name": "마녀의 스태프",
+      "type": 3,
+      "cls": 2,
+      "grade": 2,
+      "macATK_Rate": 0,
+      "phyATK": 108,
+      "macATK": 208,
+      "upgrade": 20
+    }
+
+
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 4,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 5,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 6,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 7,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 8,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 10,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 12,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 14,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 16,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 2,
+      "macATK": 18,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 20,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 23,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 26,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 29,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 33,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 38,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 43,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 49,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 56,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 3,
+      "macATK": 64,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestRareSubweapon",
+      "name": "신부의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 5,
+      "macATK": 74,
+      "upgrade": 20
+    }
+
+
+  ]
+}

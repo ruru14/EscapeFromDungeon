@@ -57,6 +57,7 @@ public class BattleManager : MonoBehaviour
     int targetNum;//스킬 대상의 갯수
     public List<BattleChar> target;//스킬 시전 대상
     public List<Skill> skills;//스킬 목록
+    List<DataChar> DCList;
 
     //현재 층
     public int floorLevel;
@@ -76,13 +77,13 @@ public class BattleManager : MonoBehaviour
     //ANIM : 애니메이션 재생중
     //OVER : 전투 종료단계
 
-    //public enum ItemGen {EQUIP ,SC_STAT, SC_EQUIP, SC_SKILL, KEY, SC_DES };
-    //EQUIP : 장비
-    //SC_STAT : 능력 주문서
-    //SC_EQUIP : 장비 주문서
-    //SC_SKILL : 스킬 주문서
+
+    public enum itemTag { STAT = 0, ENHANCE, SKILL, KEY, DISASSEMBLE };
+    //STAT : 능력치 강화 주문서
+    //ENHANCE : 장비 강화 주문서
+    //SKILL : 스킬 강화 주문서
     //KEY : 열쇠
-    //SC_DES : 분해 주문서
+    //DISASSEMBLE : 장비 분해 주문서
 
     public BattleState curState; //현재 턴의 상태
     RaycastHit hit; //히트스캔을 위해서 사용
@@ -125,7 +126,7 @@ public class BattleManager : MonoBehaviour
 
         guarded = new List<BattleChar>();
 
-        List<DataChar> DCList = new List<DataChar>();
+        DCList = new List<DataChar>();
         List<DataChar> DCEnemyList = new List<DataChar>();
 
         nullSkl = new Skill(new SkillSet());
@@ -152,14 +153,14 @@ public class BattleManager : MonoBehaviour
         //플레이어, AI 정보 불러오기
 
         //필드 구성
-        for (int i = 0; i<3; i++) {
+        for (int i = 0; i < 3; i++) {
             for (int j = 0; j<3; j++) {
-                myField[i, j] = Instantiate(floor, new Vector3(i * floorStep, 0, j * floorStep), Quaternion.identity);
+                myField[i, j] = Instantiate(floor, new Vector3(j * floorStep, 0, i * floorStep), Quaternion.identity);
                 myField[i, j].name = "my floor("+i+","+j+")";
-                enemyField[i, j] = Instantiate(floor, new Vector3(i * floorStep + 11.5f, 0, j * floorStep), Quaternion.identity);
+                enemyField[i, j] = Instantiate(floor, new Vector3(j * floorStep + 11.5f, 0, i * floorStep), Quaternion.identity);
                 enemyField[i, j].name = "enemy floor(" + i + "," + j + ")";
-                enemyPos[i * 3 + j, 0] = j;
-                enemyPos[i * 3 + j, 1] = i;
+                enemyPos[i * 3 + j, 0] = i;
+                enemyPos[i * 3 + j, 1] = j;
             }
         }
 
@@ -171,11 +172,6 @@ public class BattleManager : MonoBehaviour
 
 
         //플레이어 DC는 로딩
-        //DCList.Add(DataChar.getKnight());
-        //DCList.Add(DataChar.getArcher());
-        //DCList.Add(DataChar.getThief());
-        //DCList.Add(DataChar.getMage());
-        //DCList.Add(DataChar.getPriest());
         myPosition = GameManager.GetInstatnce().GetFormation();
         DCList = GameManager.GetInstatnce().GetCharacterList();
 
@@ -187,11 +183,6 @@ public class BattleManager : MonoBehaviour
                 }
             }
         }
-        //testSpawnChar(DCList[0], 2, 2, DCList[0].cls);
-        //testSpawnChar(DCList[1], 1, 1, DCList[1].cls);
-        //testSpawnChar(DCList[2], 0, 0, DCList[2].cls);
-        //testSpawnChar(DCList[3], 0, 2, DCList[3].cls);
-        //testSpawnChar(DCList[4], 2, 0, DCList[4].cls);
 
         //적 생성기 (층수, 속성, 적 DataChar)
         string type = "Gold";
@@ -213,7 +204,7 @@ public class BattleManager : MonoBehaviour
                 break;
         }
         floorLevel = PlayerPrefs.GetInt(PrefsEntity.CurrentFloor);
-        enemyGenerator(floorLevel, type, DCEnemyList);
+        numOfEnemy = enemyGenerator(floorLevel, type, DCEnemyList);
 
 
         //버튼에 이벤트 리스너 부착
@@ -254,15 +245,14 @@ public class BattleManager : MonoBehaviour
         {
             num = 3;
 
-            DCEnemyList.Add(DataChar.getEnemyDC("Main Boss", new SkillLastBoss(), 85, 30, 0.2f, 18, 15, 10, 15, 0, 0.05f));
-            DCEnemyList.Add(DataChar.getEnemyDC("Sub Enemy 1", new SkillLastEnemy1(), 85, 30, 0.2f, 18, 15, 10, 15, 0, 0.05f));
-            DCEnemyList.Add(DataChar.getEnemyDC("Sub Enemy 2", new SkillLastEnemy2(), 85, 30, 0.2f, 18, 15, 10, 15, 0, 0.05f));
+            DCEnemyList.Add(getBossDC(floor));
+            DCEnemyList.Add(getSub1DC(floor));
+            DCEnemyList.Add(getSub2DC(floor));
 
             for (int i = 0; i < DCEnemyList.Count; i++)
             {
                 testSpawnEnemy(DCEnemyList[i], i, i, DCEnemyList[i].cls);
             }
-
             ((SkillLastEnemy2)enemyBC[enemyBC.Count - 1].DC.charSkillSet).setBoss(enemyBC[0]);
 
             StartCoroutine(eliteAnim(floor, type, "BossMainSub"));
@@ -271,9 +261,9 @@ public class BattleManager : MonoBehaviour
         {
             num = 3;
 
-            DCEnemyList.Add(DataChar.getEnemyDC("Mid Boss", new SkillMidBoss(), 85, 30, 0.2f, 18, 15, 10, 15, 0, 0.05f));
-            DCEnemyList.Add(DataChar.getEnemyDC("Sub Enemy 1", new SkillMidEnemy1(), 85, 30, 0.2f, 18, 15, 10, 15, 0, 0.05f));
-            DCEnemyList.Add(DataChar.getEnemyDC("Sub Enemy 2", new SkillMidEnemy2(), 85, 30, 0.2f, 18, 15, 10, 15, 0, 0.05f));
+            DCEnemyList.Add(getBossDC(floor));
+            DCEnemyList.Add(getSub1DC(floor));
+            DCEnemyList.Add(getSub2DC(floor));
 
             for (int i = 0; i < DCEnemyList.Count; i++)
             {
@@ -327,75 +317,47 @@ public class BattleManager : MonoBehaviour
         return num; // 생성할 적의 갯수를 반환
     }
 
-    DataChar getBossDC(int floor) {
-        DataChar tmp = null;
-
-        return tmp;
-    }
-
     DataChar getNomalDC(int floor) {
-        int pATK = 1;
-        int pDEF = 1;
         float HP = 40;
 
         switch ((9 - (floor - 1) / 10)) {
             case 0:
-                pATK = 1;
-                pDEF = 1;
                 HP = 40;
 
                 break;
             case 1:
-                pATK = 10;
-                pDEF = 10;
                 HP = 50;
 
                 break;
             case 2:
-                pATK = 20;
-                pDEF = 20;
                 HP = 80;
 
                 break;
             case 3:
-                pATK = 30;
-                pDEF = 25;
                 HP = 80;
 
                 break;
             case 4:
-                pATK = 40;
-                pDEF = 30;
                 HP = 120;
 
                 break;
             case 5:
-                pATK = 50;
-                pDEF = 35;
                 HP = 120;
 
                 break;
             case 6:
-                pATK = 60;
-                pDEF = 40;
                 HP = 160;
 
                 break;
             case 7:
-                pATK = 70;
-                pDEF = 45;
                 HP = 160;
 
                 break;
             case 8:
-                pATK = 80;
-                pDEF = 50;
                 HP = 200;
 
                 break;
             case 9:
-                pATK = 90;
-                pDEF = 55;
                 HP = 240;
 
                 break;
@@ -403,7 +365,253 @@ public class BattleManager : MonoBehaviour
 
         HP *= (9 - ((floor - 1) % 10)) * 0.01f + 1.0f;
 
-        return DataChar.getEnemyDC("Enemy", new SkillNormalEnemy(), HP, 0, 80 + (9 - (floor - 1) / 10) * 4, pATK, pDEF, 20 + (9 - (floor-1)/10) * 10, 20 + (9 - (floor - 1) / 10) * 10, 0, 0.1f);
+        return getDC(floor, "enemy", new SkillNormalEnemy(), HP);
+    }
+
+    DataChar getBossDC(int floor)
+    {
+        float HP = 40;
+        SkillSet k;
+        string str;
+
+        switch ((9 - (floor - 1) / 10))
+        {
+            case 0:
+                HP = 60;
+
+                break;
+            case 1:
+                HP = 150;
+
+                break;
+            case 2:
+                HP = 250;
+
+                break;
+            case 3:
+                HP = 350;
+
+                break;
+            case 4:
+                HP = 500;
+
+                break;
+            case 5:
+                HP = 750;
+
+                break;
+            case 6:
+                HP = 1000;
+
+                break;
+            case 7:
+                HP = 1300;
+
+                break;
+            case 8:
+                HP = 1600;
+
+                break;
+            case 9:
+                HP = 2000;
+
+                break;
+        }
+
+        if (floor % 20 == 1)
+        {
+            k = new SkillLastBoss();
+            str = "Main Boss";
+        }
+        else {
+            k = new SkillMidBoss();
+            str = "Mid Boss";
+        }
+
+        return getDC(floor, str, k, HP);
+    }
+
+    DataChar getSub1DC(int floor)
+    {
+        float HP = 40;
+        SkillSet k;
+
+        switch ((9 - (floor - 1) / 10))
+        {
+            case 0:
+                HP = 20;
+
+                break;
+            case 1:
+                HP = 50;
+
+                break;
+            case 2:
+                HP = 80;
+
+                break;
+            case 3:
+                HP = 150;
+
+                break;
+            case 4:
+                HP = 220;
+
+                break;
+            case 5:
+                HP = 300;
+
+                break;
+            case 6:
+                HP = 350;
+
+                break;
+            case 7:
+                HP = 430;
+
+                break;
+            case 8:
+                HP = 550;
+
+                break;
+            case 9:
+                HP = 650;
+
+                break;
+        }
+
+        if (floor % 20 == 1)
+        {
+            k = new SkillLastEnemy1();
+        }
+        else
+        {
+            k = new SkillMidEnemy1();
+        }
+
+        return getDC(floor, "SubEnemy 1", k, HP);
+    }
+
+    DataChar getSub2DC(int floor)
+    {
+        float HP = 40;
+        SkillSet k;
+
+        switch ((9 - (floor - 1) / 10))
+        {
+            case 0:
+                HP = 20;
+
+                break;
+            case 1:
+                HP = 50;
+
+                break;
+            case 2:
+                HP = 80;
+
+                break;
+            case 3:
+                HP = 150;
+
+                break;
+            case 4:
+                HP = 220;
+
+                break;
+            case 5:
+                HP = 300;
+
+                break;
+            case 6:
+                HP = 350;
+
+                break;
+            case 7:
+                HP = 430;
+
+                break;
+            case 8:
+                HP = 550;
+
+                break;
+            case 9:
+                HP = 650;
+
+                break;
+        }
+
+        if (floor % 20 == 1)
+        {
+            k = new SkillLastEnemy2();
+        }
+        else
+        {
+            k = new SkillMidEnemy2();
+        }
+
+        return getDC(floor, "SubEnemy 2", k, HP);
+    }
+
+    DataChar getDC(int floor,string name, SkillSet k, float HP) {
+        int pATK = 1;
+        int pDEF = 1;
+
+        switch ((9 - (floor - 1) / 10))
+        {
+            case 0:
+                pATK = 1;
+                pDEF = 1;
+
+                break;
+            case 1:
+                pATK = 10;
+                pDEF = 10;
+
+                break;
+            case 2:
+                pATK = 20;
+                pDEF = 20;
+
+                break;
+            case 3:
+                pATK = 30;
+                pDEF = 25;
+
+                break;
+            case 4:
+                pATK = 40;
+                pDEF = 30;
+
+                break;
+            case 5:
+                pATK = 50;
+                pDEF = 35;
+
+                break;
+            case 6:
+                pATK = 60;
+                pDEF = 40;
+
+                break;
+            case 7:
+                pATK = 70;
+                pDEF = 45;
+
+                break;
+            case 8:
+                pATK = 80;
+                pDEF = 50;
+
+                break;
+            case 9:
+                pATK = 90;
+                pDEF = 55;
+
+                break;
+        }
+
+        return DataChar.getEnemyDC(name, k, HP, 0, 80 + (9 - (floor - 1) / 10) * 4, pATK, pDEF, 20 + (9 - (floor - 1) / 10) * 10, 20 + (9 - (floor - 1) / 10) * 10, 0, 0.1f);
     }
 
     List<int> getRandomPosition(int num) {
@@ -582,6 +790,7 @@ public class BattleManager : MonoBehaviour
                 //yes//전투 결과를 업데이트한다. 이동씬으로 복귀한다.
                 
                 
+                
 
                 break;
 
@@ -603,6 +812,8 @@ public class BattleManager : MonoBehaviour
                     {
                         bc.DC.charSkillSet.resetSkillSet();
                     }
+                    PlayerPrefs.DeleteAll();
+                    GameManager.GetInstatnce().DataReset();
 
                     print("Game Over!");
                     break;
@@ -619,8 +830,22 @@ public class BattleManager : MonoBehaviour
                         bc.DC.charSkillSet.resetSkillSet();
                     }
 
+                    foreach (DataChar dc in DCList)
+                    {
+                        if (dc.curHP > 0) continue;
+
+                        int idx = DCList.IndexOf(dc);
+                        DCList.RemoveAt(idx);
+
+                        for (int i = 0; i < 3; i++)
+                            for (int j = 0; j < 3; j++)
+                                if (myPosition[i, j] > idx) myPosition[i, j]--;
+                                else if (myPosition[i, j] == idx) myPosition[i, j] = -1;
+                    }
+
                     ItemGenerator();
 
+                    GameManager.GetInstatnce().Save();
                     print("Victory!");
                     break;
                 }
@@ -1200,48 +1425,91 @@ public class BattleManager : MonoBehaviour
     void ItemGenerator()
     {
         float r;
-        Text t;
-        
+        List<Equip> eqp = new List<Equip>();
+        int[] items = { 0, 0, 0, 0, 0 };
 
-        for (int i = 0; i < numOfEnemy; i++) {
+
+        //아이템 생성
+        for (int j = 0; j < numOfEnemy; j++) {
             r = Random.value;
-            t = itemList.transform.GetChild(i).GetComponent<Text>();
-
-            if (t == null)
-            {
-                print("text is null");
-                continue;
-            }
-
 
             if (r <= 0.25f) //무작위 장비/ 25퍼/ 누적 25퍼
             {
-                t.text = "무작위 장비";
-            } 
+                eqp.Add(new Equip());
+            }
             else if (r <= 0.4f) //능력치 주문서 2개/ 15퍼/ 누적 40퍼
             {
-                t.text = "능력치 주문서 2개";
+                items[(int)itemTag.STAT] += 2;
             }
             else if (r <= 0.6f) //장비 주문서 1개/ 20퍼 /누적 60퍼
             {
-                t.text = "장비 주문서 1개";
+                items[(int)itemTag.ENHANCE] += 1;
             }
             else if (r <= 0.75f) //스킬 주문서 2~5개/ 15퍼/ 누적 75퍼
             {
-                t.text = "스킬 주문서 " + (2 + (int)(Random.value*4) % 4) +"개";
+                items[(int)itemTag.SKILL] += (2 + (int)(Random.value * 4) % 4);
             }
             else if (r <= 0.85f) //열쇠 1개/ 10퍼/ 누적 85퍼
             {
-                t.text = "열쇠 1개";
+                items[(int)itemTag.KEY] += 1;
             }
             else //장비 분해 주문서 2~5개/ 15퍼/ 누적 100퍼
             {
-                t.text = "강화 분해 주문서 " + (2 + (int)(Random.value * 4) % 4) + "개";
+                items[(int)itemTag.DISASSEMBLE] += (2 + (int)(Random.value * 4) % 4);
             }
+        }
 
-            t = null;
+        //결과 출력
+        int i = 0;
+        for (; i < eqp.Count; i++)
+        {
+            addTextat(i, "무작위 장비");
+        }
+
+        //itemTag k = itemTag.STAT;
+
+        for (itemTag k = 0; (int)k < 5; k++) {
+            if (items[(int)k] <= 0) continue;
+
+            switch (k)
+            {
+                case itemTag.STAT:
+                    addTextat(i++, "능력치 주문서 " + items[(int)itemTag.STAT] + "개");
+
+                    break;
+                case itemTag.ENHANCE:
+                    addTextat(i++, "장비 주문서" + items[(int)itemTag.ENHANCE] + "개");
+
+
+                    break;
+                case itemTag.SKILL:
+                    addTextat(i++, "스킬 주문서 " + items[(int)itemTag.SKILL] + "개");
+
+
+                    break;
+                case itemTag.KEY:
+                    addTextat(i++, "열쇠 " + items[(int)itemTag.KEY] + "개");
+
+
+                    break;
+                case itemTag.DISASSEMBLE:
+                    addTextat(i++, "강화 분해 주문서 " + items[(int)itemTag.DISASSEMBLE] + "개");
+
+
+                    break;
+
+            }
         }
     }
 
+    void addTextat(int i, string str)
+    {
+        if (i >= itemList.transform.childCount) return;
+        Text t = itemList.transform.GetChild(i).GetComponent<Text>();
+        if (t == null) return;
+        t.text = str;
+    }
 
 }
+
+

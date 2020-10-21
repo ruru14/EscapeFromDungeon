@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 10,
+      "macATK": 25,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 4,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 12,
+      "macATK": 28,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 14,
+      "macATK": 32,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 16,
+      "macATK": 36,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 18,
+      "macATK": 41,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 20,
+      "macATK": 47,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 23,
+      "macATK": 54,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 26,
+      "macATK": 62,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 29,
+      "macATK": 71,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 33,
+      "macATK": 81,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 37,
+      "macATK": 93,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 42,
+      "macATK": 106,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 48,
+      "macATK": 121,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 55,
+      "macATK": 139,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 63,
+      "macATK": 159,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 72,
+      "macATK": 182,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 82,
+      "macATK": 209,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 94,
+      "macATK": 240,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 108,
+      "macATK": 276,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 124,
+      "macATK": 317,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestMysticWeapon",
+      "name": "Divine Grace",
+      "type": 3,
+      "cls": 4,
+      "grade": 3,
+      "healEFC": 20,
+      "phyATK": 142,
+      "macATK": 364,
+      "upgrade": 20
+    }
+
+
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "equipment": [
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 6,
+      "macDEF": 4,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 7,
+      "macDEF": 5,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 8,
+      "macDEF": 6,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 9,
+      "macDEF": 7,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 10,
+      "macDEF": 8,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 12,
+      "macDEF": 9,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 14,
+      "macDEF": 10,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 16,
+      "macDEF": 12,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 18,
+      "macDEF": 14,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 20,
+      "macDEF": 16,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 23,
+      "macDEF": 18,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 26,
+      "macDEF": 20,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 29,
+      "macDEF": 23,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 33,
+      "macDEF": 26,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 37,
+      "macDEF": 29,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 42,
+      "macDEF": 33,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 48,
+      "macDEF": 37,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 55,
+      "macDEF": 42,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 63,
+      "macDEF": 48,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 72,
+      "macDEF": 55,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Knight/Head/knightRareHead",
+      "name": "녹슨 철 투구",
+      "type": 0,
+      "cls": 3,
+      "grade": 1,
+      "phyDEF": 82,
+      "macDEF": 63,
+      "phyDEF_Rate": 0,
+      "macDEF_Rate": 0,
+      "upgrade": 20
+    }
+
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 2,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 3,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK":4,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 5,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 6,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 7,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 8,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 9,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 10,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 12,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 14,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 16,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 18,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 20,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 23,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 26,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 29,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 33,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 37,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 42,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestNormalSubweapon",
+      "name": "낡은 나무 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 0,
+      "healEFC": 0,
+      "macATK": 48,
+      "upgrade": 20
+    }
+
+
+  ]
+}

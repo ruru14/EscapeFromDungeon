@@ -58,8 +58,6 @@ public class DataChar// : MonoBehaviour
         mgcDEF = mDEF;
         this.spd = spd;
         this.critical = critical;
-
-        charEquipSet = new EquipSet(cls);
     }
 
     public float getMaxHP() {
@@ -73,6 +71,7 @@ public class DataChar// : MonoBehaviour
     public static DataChar getKnight() {
         DataChar tmp = new DataChar("Knight", 85, 30, 20.0f, 18, 15, 10, 15, 0, 0.05f);
         tmp.charSkillSet = new SkillKnight();
+        tmp.charEquipSet = new EquipSet(3);
         return tmp;
     }
 
@@ -80,6 +79,7 @@ public class DataChar// : MonoBehaviour
     {
         DataChar tmp = new DataChar("Thief", 65, 50, 28.0f, 20, 12, 17, 12, 0, 0.1f);
         tmp.charSkillSet = new SkillThief();
+        tmp.charEquipSet = new EquipSet(0);
         return tmp;
     }
 
@@ -87,6 +87,7 @@ public class DataChar// : MonoBehaviour
     {
         DataChar tmp = new DataChar("Archer", 60, 45, 27.0f, 21, 11, 15, 12, 0, 0.1f);
         tmp.charSkillSet = new SkillArcher();
+        tmp.charEquipSet = new EquipSet(1);
         return tmp;
     }
 
@@ -94,6 +95,7 @@ public class DataChar// : MonoBehaviour
     {
         DataChar tmp =  new DataChar("Mage", 55, 70, 25.0f, 12, 10, 22, 16, 0, 0.1f);
         tmp.charSkillSet = new SkillMage();
+        tmp.charEquipSet = new EquipSet(2);
         return tmp;
     }
 
@@ -101,6 +103,7 @@ public class DataChar// : MonoBehaviour
     {
         DataChar tmp =  new DataChar("Priest", 60, 65, 24.0f, 12, 12, 17, 16, 0, 0.05f);
         tmp.charSkillSet = new SkillPriest();
+        tmp.charEquipSet = new EquipSet(4);
         return tmp;
     }
 
@@ -108,13 +111,14 @@ public class DataChar// : MonoBehaviour
     {
         DataChar tmp = new DataChar(Name, HP, MP, AP, pATK, pDEF, mATK, mDEF, spd, critical);
         tmp.charSkillSet = set;
+        tmp.charEquipSet = new EquipSet(-1);
         return tmp;
     }
 
-    public float getPhyATK() { return phyATK + charEquipSet.getPhyATK(); }
-    public float getPhyDEF() { return phyDEF + charEquipSet.getPhyDEF(); }
-    public float getMgcATK() { return mgcATK + charEquipSet.getMgcATK(); }
-    public float getMgcDEF() { return mgcDEF + charEquipSet.getMgcDEF(); }
-    public float getIncAP() { return incAP + charEquipSet.getIncAP(); }
+    public float getPhyATK() { return phyATK; }
+    public float getPhyDEF() { return phyDEF; }
+    public float getMgcATK() { return mgcATK; }
+    public float getMgcDEF() { return mgcDEF; }
+    public float getIncAP() { return incAP; }
     public float getSPD() { return spd; }
 }

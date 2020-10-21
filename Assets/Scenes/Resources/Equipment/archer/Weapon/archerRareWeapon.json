@@ -1,0 +1,258 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 8,
+      "macATK": 6,
+      "critical": 0,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 9,
+      "macATK": 7,
+      "critical": 0,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 10,
+      "macATK": 8,
+      "critical": 0,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 12,
+      "macATK": 9,
+      "critical": 0,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 14,
+      "macATK": 10,
+      "critical": 0,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 16,
+      "macATK": 12,
+      "critical": 0,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 18,
+      "macATK": 14,
+      "critical": 0,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 20,
+      "macATK": 16,
+      "critical": 0,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 23,
+      "macATK": 18,
+      "critical": 0,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 26,
+      "macATK": 20,
+      "critical": 0,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 29,
+      "macATK": 23,
+      "critical": 0,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 33,
+      "macATK": 26,
+      "critical": 0,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 37,
+      "macATK": 29,
+      "critical": 0,
+      "upgrade": 12
+
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 42,
+      "macATK": 33,
+      "critical": 0,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 48,
+      "macATK": 37,
+      "critical": 0,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 55,
+      "macATK": 42,
+      "critical": 0,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 63,
+      "macATK": 48,
+      "critical": 0,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 72,
+      "macATK": 55,
+      "critical": 0,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 82,
+      "macATK": 63,
+      "critical": 0,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 94,
+      "macATK": 72,
+      "critical": 0,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerRareWeapon",
+      "name": "컴포지트 보우",
+      "type": 3,
+      "cls": 1,
+      "grade": 1,
+      "phyATK": 108,
+      "macATK": 83,
+      "critical": 0,
+      "upgrade": 20
+    }
+
+
+  ]
+}

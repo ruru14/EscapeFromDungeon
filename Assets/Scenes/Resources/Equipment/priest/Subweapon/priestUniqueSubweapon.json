@@ -1,0 +1,236 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 8,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 10,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 12,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 14,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 16,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 18,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 20,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 23,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 26,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 4,
+      "macATK": 29,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 33,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 37,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 42,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 48,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 55,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 63,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 72,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 82,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 94,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 6,
+      "macATK": 108,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Priest/Subweapon/priestUniqueSubweapon",
+      "name": "대주교의 십자가",
+      "type": 4 ,
+      "cls": 4,
+      "grade": 2,
+      "healEFC": 9,
+      "macATK": 124,
+      "upgrade": 20
+    }
+
+
+  ]
+}

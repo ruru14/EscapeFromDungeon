@@ -25,13 +25,13 @@ public class DecomposePanelController : MonoBehaviour
         gameManager = GameManager.GetInstatnce();
         //To Test
         //gameManager.DataReset();
-        //for (int i = 0; i < 6; i++)
+        //for (int i = 0; i < 2; i++)
         //{
-        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.SampleArcher));
-        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.SampleKnight));
-        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.SampleMage));
-        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.SamplePriest));
-        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.SampleThief));
+        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.Archer.Body.mystic, 0));
+        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.Knight.Body.mystic, 0));
+        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.Thief.Body.rare, 0));
+        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.Mage.Body.unique, 0));
+        //    gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.Priest.Body.normal, 0));
         //}
         //
         itemSlot = new GameObject[49];

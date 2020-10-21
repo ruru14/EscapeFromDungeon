@@ -1,0 +1,258 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 15,
+      "macATK": 12,
+      "critical": 0,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 17,
+      "macATK": 14,
+      "critical": 0,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 19,
+      "macATK": 16,
+      "critical": 0,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 21,
+      "macATK": 18,
+      "critical": 0,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 24,
+      "macATK": 20,
+      "critical": 0,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 27,
+      "macATK": 23,
+      "critical": 0,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 31,
+      "macATK": 26,
+      "critical": 0,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 35,
+      "macATK": 29,
+      "critical": 0,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 40,
+      "macATK": 33,
+      "critical": 0,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 46,
+      "macATK": 37,
+      "critical": 0,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 52,
+      "macATK": 42,
+      "critical": 0,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 59,
+      "macATK": 48,
+      "critical": 0,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 67,
+      "macATK": 55,
+      "critical": 0,
+      "upgrade": 12
+
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 77,
+      "macATK": 63,
+      "critical": 0,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 88,
+      "macATK": 72,
+      "critical": 0,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 101,
+      "macATK": 82,
+      "critical": 0,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 116,
+      "macATK": 94,
+      "critical": 0,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 133,
+      "macATK": 108,
+      "critical": 0,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 152,
+      "macATK": 124,
+      "critical": 0,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 174,
+      "macATK": 142,
+      "critical": 0,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerUniqueWeapon",
+      "name": "명사수의 대궁",
+      "type": 3,
+      "cls": 1,
+      "grade": 2,
+      "phyATK": 200,
+      "macATK": 163,
+      "critical": 0,
+      "upgrade": 20
+    }
+
+
+  ]
+}

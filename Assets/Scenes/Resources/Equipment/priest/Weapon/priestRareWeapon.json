@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 3,
+      "macATK": 7,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 4,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 4,
+      "macATK": 8,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 5,
+      "macATK": 10,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 6,
+      "macATK": 12,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 7,
+      "macATK": 14,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 8,
+      "macATK": 16,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 10,
+      "macATK": 18,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 12,
+      "macATK": 20,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 14,
+      "macATK": 23,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 16,
+      "macATK": 26,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 18,
+      "macATK": 29,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 20,
+      "macATK": 33,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 23,
+      "macATK": 37,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 26,
+      "macATK": 42,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 29,
+      "macATK": 48,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 33,
+      "macATK": 55,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 37,
+      "macATK": 63,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 42,
+      "macATK": 72,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 48,
+      "macATK": 82,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 55,
+      "macATK": 94,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Priest/Weapon/priestRareWeapon",
+      "name": "교회 제식 성서",
+      "type": 3,
+      "cls": 4,
+      "grade": 1,
+      "healEFC": 0,
+      "phyATK": 63,
+      "macATK": 108,
+      "upgrade": 20
+    }
+
+
+  ]
+}

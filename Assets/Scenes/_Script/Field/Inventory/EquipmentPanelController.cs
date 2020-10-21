@@ -34,6 +34,8 @@ public class EquipmentPanelController : MonoBehaviour
         gameManager = GameManager.GetInstatnce();
         //characterData = gameManager.GetCharacterList();
         characterData = new List<DataChar>();
+        //Debug.Log(EquipManager.GetEquip(EquipmentFilePath.Knight.Body.normal).name);
+        //gameManager.AddEquipment(EquipManager.GetEquip(EquipmentFilePath.Knight.Body.mystic, 0));
         //gameManager.DataReset();
         //gameManager.AddCharacter(DataChar.getArcher());
         //gameManager.AddCharacter(DataChar.getKnight());
@@ -53,7 +55,7 @@ public class EquipmentPanelController : MonoBehaviour
         //gameManager = GameManager.GetInstatnce();
         //To Test
 
-        EquipManager.GetEquip(EquipmentFilePath.SampleArcher);
+        //EquipManager.GetEquip(EquipmentFilePath.SampleArcher);
 
         //
         //CharacterListUpdate();

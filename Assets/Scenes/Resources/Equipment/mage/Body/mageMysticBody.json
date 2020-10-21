@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5,
+      "phyDEF": 10,
+      "macDEF": 18,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 12,
+      "macDEF": 20,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 14,
+      "macDEF": 23,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5,
+      "phyDEF": 16,
+      "macDEF": 26,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 18,
+      "macDEF": 29,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 20,
+      "macDEF": 33,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 23,
+      "macDEF": 38,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 26,
+      "macDEF": 43,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 29,
+      "macDEF": 49,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 33,
+      "macDEF": 56,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 38,
+      "macDEF": 64,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 43,
+      "macDEF": 73,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 49,
+      "macDEF": 83,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5,
+      "phyDEF": 56,
+      "macDEF": 95,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5,
+      "phyDEF": 64,
+      "macDEF": 109,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 73,
+      "macDEF": 125,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 83,
+      "macDEF": 143,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 95,
+      "macDEF": 164,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 109,
+      "macDEF": 188,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5, 
+      "phyDEF": 125,
+      "macDEF": 216,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageMysticBody",
+      "name": "ArcWizard's Shield Magic",
+      "type": 1,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 5,
+      "phyDEF": 144,
+      "macDEF": 248,
+      "upgrade": 20
+    }
+
+
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "equipment": [
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 15,
+        "macDEF": 12,
+        "critical": 5,
+        "upgrade": 0
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 17,
+        "macDEF": 14,
+        "critical": 5,
+        "upgrade": 1
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 19,
+        "macDEF": 16,
+        "critical": 5,
+        "upgrade": 2
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 21,
+        "macDEF": 18,
+        "critical": 5,
+        "upgrade": 3
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 24,
+        "macDEF": 20,
+        "critical": 5,
+        "upgrade": 4
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 27,
+        "macDEF": 23,
+        "critical": 5,
+        "upgrade": 5
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 31,
+        "macDEF": 26,
+        "critical": 5,
+        "upgrade": 6
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 35,
+        "macDEF": 29,
+        "critical": 5,
+        "upgrade": 7
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 40,
+        "macDEF": 33,
+        "critical": 5,
+        "upgrade": 8
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 46,
+        "macDEF": 37,
+        "critical": 5,
+        "upgrade": 9
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 52,
+        "macDEF": 42,
+        "critical": 5,
+        "upgrade": 10
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 59,
+        "macDEF": 48,
+        "critical": 5,
+        "upgrade": 11
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 67,
+        "macDEF": 55,
+        "critical": 5,
+        "upgrade": 12
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 77,
+        "macDEF": 63,
+        "critical": 5,
+        "upgrade": 13
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 88,
+        "macDEF": 72,
+        "critical": 5,
+        "upgrade": 14
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 101,
+        "macDEF": 82,
+        "critical": 5,
+        "upgrade": 15
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 116,
+        "macDEF": 94,
+        "critical": 5,
+        "upgrade": 16
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 113,
+        "macDEF": 108,
+        "critical": 5,
+        "upgrade": 17
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 152,
+        "macDEF": 124,
+        "critical": 5,
+        "upgrade": 18
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 174,
+        "macDEF": 142,
+        "critical": 5,
+        "upgrade": 19
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerMysticBody",
+        "name": "General's Uniform",
+        "type": 1,
+        "cls": 1,
+        "grade": 3,
+        "phyDEF": 200,
+        "macDEF": 163,
+        "critical": 5,
+        "upgrade": 20
+      }
+  ]
+}

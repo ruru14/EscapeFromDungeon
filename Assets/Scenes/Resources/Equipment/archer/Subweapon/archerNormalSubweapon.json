@@ -1,0 +1,276 @@
+{
+  "equipment": [
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 1,
+        "macATK": 1,
+        "upgrade": 0
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 2,
+        "macATK": 2,
+        "upgrade": 1
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 3,
+        "macATK": 3,
+        "upgrade": 2
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 4,
+        "macATK": 4,
+        "upgrade": 3
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 5,
+        "macATK": 5,
+        "upgrade": 4
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 6,
+        "macATK": 6,
+        "upgrade": 5
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 7,
+        "macATK": 7,
+        "upgrade": 6
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 8,
+        "macATK": 8,
+        "upgrade": 7
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 9,
+        "macATK": 9,
+        "upgrade": 8
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 11,
+        "macATK": 11,
+        "upgrade": 9
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 13,
+        "macATK": 13,
+        "upgrade": 10
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 15,
+        "macATK": 15,
+        "upgrade": 11
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 17,
+        "macATK": 17,
+        "upgrade": 12
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 19,
+        "macATK": 19,
+        "upgrade": 13
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 22,
+        "macATK": 22,
+        "upgrade": 14
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 25,
+        "macATK": 25,
+        "upgrade": 15
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 29,
+        "macATK": 29,
+        "upgrade": 16
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 33,
+        "macATK": 33,
+        "upgrade": 17
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 38,
+        "macATK": 38,
+        "upgrade": 18
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 44,
+        "macATK": 44,
+        "upgrade": 19
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerNormalSubweapon",
+        "name": "낡은 나무 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 0,
+        "speed": 0,
+        "phyATK_Rate": 0,
+        "phyATK": 51,
+        "macATK": 51,
+        "upgrade": 20
+      }
+  ]
+}

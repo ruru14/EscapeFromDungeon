@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 4,
+      "macDEF": 5,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 5,
+      "macDEF": 6,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 6,
+      "macDEF": 7,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 7,
+      "macDEF": 8,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 8,
+      "macDEF": 10,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 10,
+      "macDEF": 12,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 12,
+      "macDEF": 14,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 14,
+      "macDEF": 16,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 16,
+      "macDEF": 18,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 18,
+      "macDEF": 20,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 20,
+      "macDEF": 23,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 23,
+      "macDEF": 26,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 26,
+      "macDEF": 29,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 29,
+      "macDEF": 33,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 33,
+      "macDEF": 38,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 38,
+      "macDEF": 43,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 43,
+      "macDEF": 49,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 49,
+      "macDEF": 56,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 56,
+      "macDEF": 64,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 64,
+      "macDEF": 73,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Priest/Body/priestRareBody",
+      "name": "신부의 외출용 법복",
+      "type": 1,
+      "cls": 4,
+      "grade": 1,
+      "incMP": 0,
+      "phyDEF": 73,
+      "macDEF": 84,
+      "upgrade": 20
+    }
+
+
+  ]
+}

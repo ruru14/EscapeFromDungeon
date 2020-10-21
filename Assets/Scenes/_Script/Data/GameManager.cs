@@ -90,6 +90,7 @@ public class GameManager
     public void SetFormation(int[,] newFormation)
     {
         formation = newFormation;
+        Save();
     }
 
     public void SetCharacterOnFormation(int x, int y, DataChar character)

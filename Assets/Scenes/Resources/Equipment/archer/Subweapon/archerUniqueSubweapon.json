@@ -1,0 +1,276 @@
+{
+  "equipment": [
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 8,
+        "macATK": 6,
+        "upgrade": 0
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 9,
+        "macATK": 7,
+        "upgrade": 1
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 10,
+        "macATK": 8,
+        "upgrade": 2
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 12,
+        "macATK": 9,
+        "upgrade": 3
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 14,
+        "macATK": 10,
+        "upgrade": 4
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 16,
+        "macATK": 12,
+        "upgrade": 5
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 18,
+        "macATK": 14,
+        "upgrade": 6
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 20,
+        "macATK": 16,
+        "upgrade": 7
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 23,
+        "macATK": 18,
+        "upgrade": 8
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 26,
+        "macATK": 20,
+        "upgrade": 9
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 30,
+        "macATK": 23,
+        "upgrade": 10
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 34,
+        "macATK": 26,
+        "upgrade": 11
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 39,
+        "macATK": 30,
+        "upgrade": 12
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 45,
+        "macATK": 34,
+        "upgrade": 13
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 52,
+        "macATK": 39,
+        "upgrade": 14
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 60,
+        "macATK": 45,
+        "upgrade": 15
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 69,
+        "macATK": 52,
+        "upgrade": 16
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 79,
+        "macATK": 60,
+        "upgrade": 17
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 90,
+        "macATK": 69,
+        "upgrade": 18
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 103,
+        "macATK": 79,
+        "upgrade": 19
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerUniqueSubweapon",
+        "name": "명사수의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 2,
+        "speed": 12,
+        "phyATK_Rate": 0,
+        "phyATK": 118,
+        "macATK": 91,
+        "upgrade": 20
+      }
+  ]
+}

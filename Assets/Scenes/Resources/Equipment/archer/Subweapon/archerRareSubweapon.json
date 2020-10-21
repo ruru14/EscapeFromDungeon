@@ -1,0 +1,276 @@
+{
+  "equipment": [
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 4,
+        "macATK": 3,
+        "upgrade": 0
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 5,
+        "macATK": 4,
+        "upgrade": 1
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 6,
+        "macATK": 5,
+        "upgrade": 2
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 7,
+        "macATK": 6,
+        "upgrade": 3
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 8,
+        "macATK": 7,
+        "upgrade": 4
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 9,
+        "macATK": 8,
+        "upgrade": 5
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 10,
+        "macATK": 9,
+        "upgrade": 6
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 12,
+        "macATK": 10,
+        "upgrade": 7
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 14,
+        "macATK": 12,
+        "upgrade": 8
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 3,
+        "phyATK_Rate": 0,
+        "phyATK": 16,
+        "macATK": 14,
+        "upgrade": 9
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 18,
+        "macATK": 16,
+        "upgrade": 10
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 20,
+        "macATK": 18,
+        "upgrade": 11
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 23,
+        "macATK": 20,
+        "upgrade": 12
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 26,
+        "macATK": 23,
+        "upgrade": 13
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 29,
+        "macATK": 26,
+        "upgrade": 14
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 33,
+        "macATK": 30,
+        "upgrade": 15
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 38,
+        "macATK": 34,
+        "upgrade": 16
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 44,
+        "macATK": 39,
+        "upgrade": 17
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 51,
+        "macATK": 45,
+        "upgrade": 18
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 5,
+        "phyATK_Rate": 0,
+        "phyATK": 59,
+        "macATK": 52,
+        "upgrade": 19
+      },
+
+      {
+        "img": "Equipment/Archer/Subweapon/archerRareSubweapon",
+        "name": "궁병의 화살통",
+        "type": 4,
+        "cls": 1,
+        "grade": 1,
+        "speed": 8,
+        "phyATK_Rate": 0,
+        "phyATK": 68,
+        "macATK": 60,
+        "upgrade": 20
+      }
+  ]
+}

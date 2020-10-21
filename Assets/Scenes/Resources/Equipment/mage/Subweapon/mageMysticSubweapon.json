@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8,
+      "speed": 10,
+      "macATK": 15,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8, 
+      "speed": 10,
+      "macATK": 17,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8, 
+      "speed": 10,
+      "macATK": 19,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8,
+      "speed": 10,
+      "macATK": 21,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8, 
+      "speed": 10,
+      "macATK": 24,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8, 
+      "speed": 10,
+      "macATK": 27,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8, 
+      "speed": 10,
+      "macATK": 31,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8, 
+      "speed": 10,
+      "macATK": 35,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8, 
+      "speed": 10,
+      "macATK": 40,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 8, 
+      "speed": 10,
+      "macATK": 46,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12, 
+      "speed": 10,
+      "macATK": 52,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12, 
+      "speed": 10,
+      "macATK": 59,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12, 
+      "speed": 10,
+      "macATK": 67,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12,
+      "speed": 10,
+      "macATK": 77,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12,
+      "speed": 10,
+      "macATK": 88,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12, 
+      "speed": 10,
+      "macATK": 101,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12, 
+      "speed": 10,
+      "macATK": 116,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12, 
+      "speed": 10,
+      "macATK": 133,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12, 
+      "speed": 10,
+      "macATK": 152,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 12, 
+      "speed": 10,
+      "macATK": 174,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Mage/Subweapon/mageMysticSubweapon",
+      "name": "ArcWizard's Intelligence",
+      "type": 4,
+      "cls": 2,
+      "grade": 3,
+      "incMP": 18,
+      "speed": 10,
+      "macATK": 200,
+      "upgrade": 20
+    }
+
+
+  ]
+}

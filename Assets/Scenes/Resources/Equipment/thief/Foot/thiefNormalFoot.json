@@ -1,0 +1,256 @@
+{
+  "equipment": [
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 1,
+        "macDEF": 1,
+        "speed": 0,
+        "upgrade": 0
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 2,
+        "macDEF": 2,
+        "speed": 0,
+        "upgrade": 1
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 3,
+        "macDEF": 3,
+        "speed": 0,
+        "upgrade": 2
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 4,
+        "macDEF": 4,
+        "speed": 0,
+        "upgrade": 3
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 5,
+        "macDEF": 5,
+        "speed": 0,
+        "upgrade": 4
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 6,
+        "macDEF": 6,
+        "speed": 0,
+        "upgrade": 5
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 7,
+        "macDEF": 7,
+        "speed": 0,
+        "upgrade": 6
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 8,
+        "macDEF": 8,
+        "speed": 0,
+        "upgrade": 7
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 9,
+        "macDEF": 9,
+        "speed": 0,
+        "upgrade": 8
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 10,
+        "macDEF": 10,
+        "speed": 0,
+        "upgrade": 9
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 12,
+        "macDEF": 12,
+        "speed": 0,
+        "upgrade": 10
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 14,
+        "macDEF": 14,
+        "speed": 0,
+        "upgrade": 11
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 16,
+        "macDEF": 16,
+        "speed": 0,
+        "upgrade": 12
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 18,
+        "macDEF": 18,
+        "speed": 0,
+        "upgrade": 13
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 20,
+        "macDEF": 20,
+        "speed": 0,
+        "upgrade": 14
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 23,
+        "macDEF": 23,
+        "speed": 0,
+        "upgrade": 15
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 26,
+        "macDEF": 26,
+        "speed": 0,
+        "upgrade": 16
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 29,
+        "macDEF": 29,
+        "speed": 0,
+        "upgrade": 17
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 33,
+        "macDEF": 33,
+        "speed": 0,
+        "upgrade": 18
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 37,
+        "macDEF": 37,
+        "speed": 0,
+        "upgrade": 19
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefNormalFoot",
+        "name": "마모된 가죽 신발",
+        "type": 2,
+        "cls": 0,
+        "grade": 0,
+        "phyDEF": 42,
+        "macDEF": 42,
+        "speed": 0,
+        "upgrade": 20
+      }
+
+  ]
+}

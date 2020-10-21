@@ -94,4 +94,20 @@ public class FieldTestMode : MonoBehaviour
         Scene scene = SceneManager.GetActiveScene();
         LoadingManager.LoadSceneFieldToField();
     }
+
+    public void OnClickTestCharacter()
+    {
+        List<DataChar> tempList = new List<DataChar>();
+        tempList.Add(DataChar.getArcher());
+        tempList.Add(DataChar.getArcher());
+        tempList.Add(DataChar.getKnight());
+        tempList.Add(DataChar.getKnight());
+        tempList.Add(DataChar.getMage());
+        tempList.Add(DataChar.getMage());
+        tempList.Add(DataChar.getPriest());
+        tempList.Add(DataChar.getPriest());
+        tempList.Add(DataChar.getThief());
+        tempList.Add(DataChar.getThief());
+        gameManager.UpdateCharacterList(tempList);
+    }
 }

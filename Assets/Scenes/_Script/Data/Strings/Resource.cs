@@ -32,4 +32,29 @@ public class Resource
     public static readonly string MagicianIdle = "battle/Mage/sprite/idle/법사대기자세1";
     public static readonly string KnightIdle = "battle/Knight/sprite/idle/대기1";
     public static readonly string PriestIdle = "battle/Priest/sprite/idle/사제대기자세1";
+
+    public static string GetClassImage(string cls)
+    {
+        string returnValue = "";
+        switch (cls)
+        {
+            case "Knight":
+                returnValue = KnightIdle;
+                break;
+            case "Thief":
+                returnValue = ThiefIdle;
+                break;
+            case "Mage":
+                returnValue = MagicianIdle;
+                break;
+            case "Archer":
+                returnValue = ArcherIdle;
+                break;
+            case "Priest":
+                returnValue = PriestIdle;
+                break;
+
+        }
+        return returnValue;
+    }
 }

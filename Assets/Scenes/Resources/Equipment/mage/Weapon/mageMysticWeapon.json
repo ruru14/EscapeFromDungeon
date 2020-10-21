@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 15,
+      "macATK": 30,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 17,
+      "macATK": 34,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 19,
+      "macATK": 39,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 21,
+      "macATK": 4,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 24,
+      "macATK": 50,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 27,
+      "macATK": 57,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 31,
+      "macATK": 65,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 35,
+      "macATK": 74,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 40,
+      "macATK": 85,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 46,
+      "macATK": 97,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 52,
+      "macATK": 111,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 59,
+      "macATK": 127,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 67,
+      "macATK": 146,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 77,
+      "macATK": 167,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 88,
+      "macATK": 192,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 101,
+      "macATK": 220,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 116,
+      "macATK": 253,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 133,
+      "macATK": 290,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 152,
+      "macATK": 333,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 174,
+      "macATK": 382,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Mage/Weapon/mageMysticWeapon",
+      "name": "ArcWizard's Wisdom",
+      "type": 3,
+      "cls": 2,
+      "grade": 3,
+      "macATK_Rate": 10,
+      "phyATK": 200,
+      "macATK": 439,
+      "upgrade": 20
+    }
+
+
+  ]
+}

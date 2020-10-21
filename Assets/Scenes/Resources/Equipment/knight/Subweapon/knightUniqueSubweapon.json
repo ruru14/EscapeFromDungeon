@@ -1,0 +1,278 @@
+{
+  "equipment": [
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 8,
+      "macDEF": 6,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 9,
+      "macDEF": 7,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 10,
+      "macDEF": 8,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 12,
+      "macDEF": 9,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 14,
+      "macDEF": 10,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 16,
+      "macDEF": 12,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 18,
+      "macDEF": 14,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 20,
+      "macDEF": 16,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 23,
+      "macDEF": 18,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 26,
+      "macDEF": 20,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 29,
+      "macDEF": 23,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 33,
+      "macDEF": 26,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 37,
+      "macDEF": 29,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 42,
+      "macDEF": 33,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 48,
+      "macDEF": 37,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 55,
+      "macDEF": 42,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 63,
+      "macDEF": 48,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 72,
+      "macDEF": 55,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 82,
+      "macDEF": 63,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 94,
+      "macDEF": 72,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Knight/Subweapon/knightUniqueSubweapon",
+      "name": "문양이 새겨진 강철 방패",
+      "type": 4,
+      "cls": 3,
+      "grade": 2,
+      "maxHP": 0,
+      "maxMP": 0,
+      "phyDEF": 108,
+      "macDEF": 83,
+      "upgrade": 20
+    }
+
+  ]
+}

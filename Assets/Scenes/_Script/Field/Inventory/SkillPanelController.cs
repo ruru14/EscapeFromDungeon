@@ -93,6 +93,7 @@ public class SkillPanelController : MonoBehaviour
 
     IEnumerator SelectSkillFlicker()
     {
+        Utility.ObjectVisibility(skillChangeNotice, true);
         while (skillSelectFlag)
         {
             flicker = Mathf.Abs(Mathf.Sin(Time.time * 3)) + 0.3f;
@@ -322,7 +323,6 @@ public class SkillPanelController : MonoBehaviour
         Debug.Log("Change Skill Setted");
         changeStandBySkill = skill;
         skillSelectFlag = true;
-        Utility.ObjectVisibility(skillChangeNotice, true);
         Utility.ObjectVisibility(skillChangePanel, true);
         StartCoroutine(SelectSkillFlicker());
     }

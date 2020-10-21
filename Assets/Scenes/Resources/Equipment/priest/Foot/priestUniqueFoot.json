@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 4,
+      "macDEF": 7,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 5,
+      "macDEF": 8,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 6,
+      "macDEF": 9,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 7,
+      "macDEF": 10,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 8,
+      "macDEF": 12,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 9,
+      "macDEF": 14,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 10,
+      "macDEF": 16,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 12,
+      "macDEF": 18,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 14,
+      "macDEF": 20,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 16,
+      "macDEF": 23,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 18,
+      "macDEF": 26,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 20,
+      "macDEF": 29,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 23,
+      "macDEF": 33,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 26,
+      "macDEF": 37,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 29,
+      "macDEF": 42,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 33,
+      "macDEF": 48,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 37,
+      "macDEF": 55,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 42,
+      "macDEF": 63,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 48,
+      "macDEF": 72,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 55,
+      "macDEF": 82,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Priest/Foot/priestUniqueFoot",
+      "name": "과거 성인의 신발",
+      "type": 2,
+      "cls": 4,
+      "grade": 2,
+      "speed": 0,
+      "phyDEF": 63,
+      "macDEF": 94,
+      "upgrade": 20
+    }
+
+
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "equipment": [
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 10,
+        "macDEF": 8,
+        "speed": 5,
+        "upgrade": 0
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 12,
+        "macDEF": 9,
+        "speed": 5,
+        "upgrade": 1
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 14,
+        "macDEF": 10,
+        "speed": 5,
+        "upgrade": 2
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 16,
+        "macDEF": 12,
+        "speed": 5,
+        "upgrade": 3
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 18,
+        "macDEF": 14,
+        "speed": 5,
+        "upgrade": 4
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 20,
+        "macDEF": 16,
+        "speed": 5,
+        "upgrade": 5
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 23,
+        "macDEF": 18,
+        "speed": 5,
+        "upgrade": 6
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 26,
+        "macDEF": 20,
+        "speed": 5,
+        "upgrade": 7
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 29,
+        "macDEF": 23,
+        "speed": 5,
+        "upgrade": 8
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 33,
+        "macDEF": 26,
+        "speed": 5,
+        "upgrade": 9
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 37,
+        "macDEF": 29,
+        "speed": 5,
+        "upgrade": 10
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 42,
+        "macDEF": 33,
+        "speed": 5,
+        "upgrade": 11
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 48,
+        "macDEF": 37,
+        "speed": 5,
+        "upgrade": 12
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 55,
+        "macDEF": 42,
+        "speed": 5,
+        "upgrade": 13
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 63,
+        "macDEF": 48,
+        "speed": 5,
+        "upgrade": 14
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 72,
+        "macDEF": 55,
+        "speed": 5,
+        "upgrade": 15
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 82,
+        "macDEF": 63,
+        "speed": 5,
+        "upgrade": 16
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 94,
+        "macDEF": 72,
+        "speed": 5,
+        "upgrade": 17
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 108,
+        "macDEF": 82,
+        "speed": 5,
+        "upgrade": 18
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 124,
+        "macDEF": 94,
+        "speed": 5,
+        "upgrade": 19
+      },
+
+      {
+        "img": "Equipment/Thief/Foot/thiefMysticFoot",
+        "name": "Grim Reaper's Silence",
+        "type": 2,
+        "cls": 0,
+        "grade": 3,
+        "phyDEF": 142,
+        "macDEF": 108,
+        "speed": 5,
+        "upgrade": 20
+      }
+
+  ]
+}

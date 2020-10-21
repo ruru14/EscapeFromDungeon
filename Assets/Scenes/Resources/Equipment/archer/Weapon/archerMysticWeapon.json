@@ -1,0 +1,258 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 25,
+      "macATK": 20,
+      "critical": 10,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 28,
+      "macATK": 23,
+      "critical": 10,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 32,
+      "macATK": 26,
+      "critical": 10,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 36,
+      "macATK": 29,
+      "critical": 10,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 41,
+      "macATK": 33,
+      "critical": 10,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 47,
+      "macATK": 37,
+      "critical": 10,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 54,
+      "macATK": 42,
+      "critical": 10,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 62,
+      "macATK": 48,
+      "critical": 10,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 71,
+      "macATK": 55,
+      "critical": 10,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 81,
+      "macATK": 63,
+      "critical": 10,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 93,
+      "macATK": 72,
+      "critical": 10,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 106,
+      "macATK": 82,
+      "critical": 10,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 121,
+      "macATK": 94,
+      "critical": 10,
+      "upgrade": 12
+
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 139,
+      "macATK": 108,
+      "critical": 10,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 159,
+      "macATK": 124,
+      "critical": 10,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 182,
+      "macATK": 142,
+      "critical": 10,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 209,
+      "macATK": 163,
+      "critical": 10,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 240,
+      "macATK": 187,
+      "critical": 10,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 276,
+      "macATK": 215,
+      "critical": 10,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 317,
+      "macATK": 364,
+      "critical": 10,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Archer/Weapon/archerMysticWeapon",
+      "name": "Eagle Eye",
+      "type": 3,
+      "cls": 1,
+      "grade": 3,
+      "phyATK": 364,
+      "macATK": 284,
+      "critical": 10,
+      "upgrade": 20
+    }
+
+
+  ]
+}

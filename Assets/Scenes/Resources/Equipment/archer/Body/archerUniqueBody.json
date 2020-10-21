@@ -1,0 +1,255 @@
+{
+  "equipment": [
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 10,
+        "macDEF": 8,
+        "critical": 0,
+        "upgrade": 0
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 12,
+        "macDEF": 9,
+        "critical": 0,
+        "upgrade": 1
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 14,
+        "macDEF": 10,
+        "critical": 0,
+        "upgrade": 2
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 16,
+        "macDEF": 12,
+        "critical": 0,
+        "upgrade": 3
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 18,
+        "macDEF": 14,
+        "critical": 0,
+        "upgrade": 4
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 20,
+        "macDEF": 16,
+        "critical": 0,
+        "upgrade": 5
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 23,
+        "macDEF": 18,
+        "critical": 0,
+        "upgrade": 6
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 26,
+        "macDEF": 20,
+        "critical": 0,
+        "upgrade": 7
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 29,
+        "macDEF": 23,
+        "critical": 0,
+        "upgrade": 8
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 33,
+        "macDEF": 26,
+        "critical": 0,
+        "upgrade": 9
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 37,
+        "macDEF": 29,
+        "critical": 0,
+        "upgrade": 10
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 42,
+        "macDEF": 33,
+        "critical": 0,
+        "upgrade": 11
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 48,
+        "macDEF": 37,
+        "critical": 0,
+        "upgrade": 12
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 55,
+        "macDEF": 42,
+        "critical": 0,
+        "upgrade": 13
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 63,
+        "macDEF": 48,
+        "critical": 0,
+        "upgrade": 14
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 72,
+        "macDEF": 55,
+        "critical": 0,
+        "upgrade": 15
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 82,
+        "macDEF": 63,
+        "critical": 0,
+        "upgrade": 16
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 94,
+        "macDEF": 72,
+        "critical": 0,
+        "upgrade": 17
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 108,
+        "macDEF": 82,
+        "critical": 0,
+        "upgrade": 18
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 124,
+        "macDEF": 94,
+        "critical": 0,
+        "upgrade": 19
+      },
+
+      {
+        "img": "Equipment/Archer/Body/archerUniqueBody",
+        "name": "저격수의 매복용 갑옷",
+        "type": 1,
+        "cls": 1,
+        "grade": 2,
+        "phyDEF": 142,
+        "macDEF": 108,
+        "critical": 0,
+        "upgrade": 20
+      }
+  ]
+}

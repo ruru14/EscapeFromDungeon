@@ -506,6 +506,7 @@ public class MapGenerator : MonoBehaviour
     private void ChangeFloorElement()
     {
         int bgFlag = PlayerPrefs.GetInt(PrefsEntity.FieldElement, 0);
+        //0 = Soil, 1 = Water, 2 = Fire, 3 = Wood, 4 = Steal
         if (currentFloor % 20 == 0)
         {
             bgFlag = Random.Range(0, 5);

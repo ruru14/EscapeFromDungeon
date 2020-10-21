@@ -438,22 +438,22 @@ public class BattleChar : MonoBehaviour
 
     public float GetPhyATK()
     {
-        return DC.getPhyATK() * buffPhyATK + DC.charEquipSet.getPhyATK();
+        return DC.getPhyATK() * (buffPhyATK + DC.charEquipSet.getPhyATK());
     }
 
     public float GetPhyDEF()
     {
-        return DC.getPhyDEF() * buffPhyDEF + DC.charEquipSet.getPhyDEF();
+        return DC.getPhyDEF() * (buffPhyDEF + DC.charEquipSet.getPhyDEF());
     }
 
     public float GetMgcATK()
     {
-        return DC.getMgcATK() * buffMgcATK + DC.charEquipSet.getMgcATK();
+        return DC.getMgcATK() * (buffMgcATK + DC.charEquipSet.getMgcATK());
     }
 
     public float GetMgcDEF()
     {
-        return DC.getMgcDEF() * buffMgcDEF + DC.charEquipSet.getMgcDEF();
+        return DC.getMgcDEF() * (buffMgcDEF + DC.charEquipSet.getMgcDEF());
     }
 
     public float GetIncAP() {

@@ -54,7 +54,7 @@ public class CharacterPanelController : MonoBehaviour
         characterSkillSet.Add(selectedSkill3);
         CharacterListUpdate();
         //To Test
-        EquipManager.GetEquip(EquipmentFilePath.SampleArcher);
+        //EquipManager.GetEquip(EquipmentFilePath.SampleArcher);
         StartCoroutine(PanelSwapObserver());
     }
 

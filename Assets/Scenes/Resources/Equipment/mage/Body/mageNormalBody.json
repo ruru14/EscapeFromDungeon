@@ -1,0 +1,257 @@
+{
+  "equipment": [
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0,
+      "phyDEF": 2,
+      "macDEF": 2,
+      "upgrade": 0
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 3,
+      "macDEF": 3,
+      "upgrade": 1
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 4,
+      "macDEF": 4,
+      "upgrade": 2
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0,
+      "phyDEF": 5,
+      "macDEF": 5,
+      "upgrade": 3
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 6,
+      "macDEF": 6,
+      "upgrade": 4
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 7,
+      "macDEF": 7,
+      "upgrade": 5
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 8,
+      "macDEF": 8,
+      "upgrade": 6
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 9,
+      "macDEF": 9,
+      "upgrade": 7
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 10,
+      "macDEF": 10,
+      "upgrade": 8
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 12,
+      "macDEF": 12,
+      "upgrade": 9
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 14,
+      "macDEF": 14,
+      "upgrade": 10
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 16,
+      "macDEF": 16,
+      "upgrade": 11
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 18,
+      "macDEF": 18,
+      "upgrade": 12
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0,
+      "phyDEF": 20,
+      "macDEF": 20,
+      "upgrade": 13
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0,
+      "phyDEF": 23,
+      "macDEF": 23,
+      "upgrade": 14
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 26,
+      "macDEF": 26,
+      "upgrade": 15
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 30,
+      "macDEF": 30,
+      "upgrade": 16
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 34,
+      "macDEF": 34,
+      "upgrade": 17
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 39,
+      "macDEF": 39,
+      "upgrade": 18
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0, 
+      "phyDEF": 45,
+      "macDEF": 45,
+      "upgrade": 19
+    },
+
+    {
+      "img": "Equipment/Mage/Body/mageNormalBody",
+      "name": "견습 마법사의 로브",
+      "type": 1,
+      "cls": 2,
+      "grade": 0,
+      "macATK_Rate": 0,
+      "phyDEF": 52,
+      "macDEF": 52,
+      "upgrade": 20
+    }
+
+
+  ]
+}
