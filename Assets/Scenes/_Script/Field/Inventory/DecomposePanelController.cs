@@ -10,6 +10,11 @@ public class DecomposePanelController : MonoBehaviour
 {
     public GameObject itemListParent;
     public GameObject itemPrefab;
+    public Text decomposeScroll;
+    public Text equipName;
+    public Text equipGrade;
+    public Text decomposeReq;
+    public Text decomposeRes;
 
     private GameManager gameManager;
     private List<Equip> itemList;
@@ -78,20 +83,27 @@ public class DecomposePanelController : MonoBehaviour
             itemSlot[i] = Instantiate(itemPrefab, itemListParent.transform);
             itemSlot[i].transform.Find("ItemImage").gameObject.GetComponent<Image>().sprite
                 = Resources.Load<Sprite>(itemList[i].img) as Sprite;
-            itemSlot[i].AddComponent<TooltipManager>()
+            itemSlot[i].gameObject
+                .AddComponent<TooltipManager>()
                 .SetEquip(itemList[i], itemIndex, IconType.Equipment);
             //.transform.Find("ItemImage").gameObject
-            itemSlot[i].AddComponent<Button>().onClick.AddListener(() =>
+            itemSlot[i].gameObject.AddComponent<Button>().onClick.AddListener(() =>
             {
                 OnClickItem(itemIndex);
             });
         }
-        for(int i=itemList.Count; i<itemSlot.Length; i++)
+        for (int i=itemList.Count; i<itemSlot.Length; i++)
         {
             itemSlot[i] = Instantiate(itemPrefab, itemListParent.transform);
             itemSlot[i].transform.Find("ItemImage").gameObject.GetComponent<Image>().color
                 = Color.clear;
         }
+        decomposeScroll.text = "보유한 장비 분해 주문서 : ";
+        equipName.text = "";
+        equipGrade.text = "";
+        decomposeReq.text = "";
+        decomposeRes.text = "";
+        //TODO : EquipScroll Image Clear
     }
 
     public void OnClickItem(int index)
@@ -103,7 +115,43 @@ public class DecomposePanelController : MonoBehaviour
         selectedItem.transform.Find("ItemImage").gameObject.GetComponent<Image>().sprite
             = Resources.Load<Sprite>(itemList[index].img) as Sprite;
         selectedEquip = itemList[index];
-        //Debug.Log(itemList[i].name);
+        equipName.text = "+" + selectedEquip.level + " " + selectedEquip.name;
+        int reqScroll = 0;
+        int resScroll = 0;
+        string grade = "";
+        Color gradeColor = new Color(0, 0, 0);
+        switch (selectedEquip.grade)
+        {
+            case EquipGrade.Normal:
+                grade = "노멀";
+                reqScroll = 1;
+                resScroll = 1;
+                gradeColor = new Color(0.83f, 0.746f, 0.661f);
+                break;
+            case EquipGrade.Rare:
+                grade = "레어";
+                reqScroll = 3;
+                resScroll = 2;
+                gradeColor = new Color(0.589f, 0.934f, 1.0f);
+                break;
+            case EquipGrade.Unique:
+                grade = "유니크";
+                reqScroll = 6;
+                resScroll = 3;
+                gradeColor = new Color(1.0f, 0.589f, 0.699f);
+                break;
+            case EquipGrade.Mystic:
+                grade = "미스틱";
+                reqScroll = 10;
+                resScroll = 5;
+                gradeColor = new Color(1.0f, 0.849f, 0.0f);
+                break;
+        }
+        equipGrade.text = "(" + grade + " 아이템)";
+        equipGrade.color = gradeColor;
+        decomposeReq.text = "요구 장비 분해 주문서 : " + reqScroll.ToString();
+        decomposeRes.text = "획득하는 장비 강화 주문서 : " + resScroll.ToString();
+        //TODO : EquipScroll Image Setting
     }
 
     public void OnClickDecompose()

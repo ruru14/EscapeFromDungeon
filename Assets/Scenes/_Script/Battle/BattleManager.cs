@@ -78,7 +78,7 @@ public class BattleManager : MonoBehaviour
     //OVER : 전투 종료단계
 
 
-    public enum itemTag { STAT = 0, ENHANCE, SKILL, KEY, DISASSEMBLE };
+    public enum itemTag { STATONE = 0, STATTHREE, STATFIVE, STATCHAOS , ENHANCE, SKILL, KEY, DISASSEMBLE };
     //STAT : 능력치 강화 주문서
     //ENHANCE : 장비 강화 주문서
     //SKILL : 스킬 강화 주문서
@@ -94,6 +94,8 @@ public class BattleManager : MonoBehaviour
 
     Vector3 centerPos;
     Vector3 originPos;
+
+    float[,] itemDropTable;
 
 
 
@@ -133,6 +135,17 @@ public class BattleManager : MonoBehaviour
         sklSelected = nullSkl;
 
         charSize = new Vector3(2.2f, 2.2f, 2.2f);
+        itemDropTable = new float[,] { 
+            {0.6f, 0.95f, 1.0f },
+            {0.45f, 0.9f, 1.0f},
+            {0.25f, 0.75f, 0.95f},
+            {0.15f, 0.65f, 0.95f}, 
+            {0.1f, 0.45f, 0.9f}, 
+            {0.05f, 0.3f, 0.8f}, 
+            {0.05f, 0.2f, 0.7f}, 
+            {0.05f, 0.15f, 0.7f}, 
+            {0.05f, 0.1f, 0.7f}, 
+            {0, 0, 0.65f} };
 
         mainCam = Camera.main;
         camOrigin = mainCam.transform.position;
@@ -222,6 +235,7 @@ public class BattleManager : MonoBehaviour
         hit = new RaycastHit();
         curState = BattleState.INIT;
         animStack = 0;
+
 
         StartCoroutine(afterStart());
     }
@@ -1422,11 +1436,93 @@ public class BattleManager : MonoBehaviour
 
     }
 
+    //랜덤하게 장비 생성
+    string randomEquipPath() {
+        string tmp = "./Assets/Scenes/Resources/Equipment";
+        string name = "";
+
+        float k = itemDropTable[9 - (floorLevel - 1) / 10, 0];
+        float rdm = Random.value;
+
+        switch (Random.Range(0, 4))
+        {
+            case 0:
+                tmp += "/Mage";
+                name = "/mage";
+                break;
+            case 1:
+                tmp += "/Knight";
+                name = "/knight";
+                break;
+            case 2:
+                tmp += "/Thief";
+                name = "/thief";
+                break;
+            case 3:
+                tmp += "/Priest";
+                name = "/priest";
+                break;
+            case 4:
+                tmp += "/Archer";
+                name = "/archer";
+                break;
+        }
+
+        if (rdm < itemDropTable[9 - (floorLevel - 1) / 10, 0])
+        {
+            name += "Normal";
+        }
+        else if (rdm < itemDropTable[9 - (floorLevel - 1) / 10, 1])
+        {
+            name += "Rare";
+        }
+        else if (rdm < itemDropTable[9 - (floorLevel - 1) / 10, 2])
+        {
+            name += "Unique";
+        }
+        else
+        {
+            name += "Mystic";
+        }
+
+        switch (Random.Range(0, 4))
+        {
+            case 0:
+                tmp += "/Foot";
+                name += "Foot";
+                break;
+            case 1:
+                tmp += "/Head";
+                name += "Head";
+                break;
+            case 2:
+                tmp += "/Body";
+                name += "Body";
+                break;
+            case 3:
+                tmp += "/Weapon";
+                name += "Weapon";
+                break;
+            case 4:
+                if (tmp.Contains("Thief"))
+                {
+                    tmp += "/Weapon";
+                    name += "Weapon";
+                    break;
+                }
+                tmp += "/Subweapon";
+                name += "Subweapon";
+                break;
+        }
+
+        return tmp + name;
+    }
+
     void ItemGenerator()
     {
         float r;
         List<Equip> eqp = new List<Equip>();
-        int[] items = { 0, 0, 0, 0, 0 };
+        int[] items = { 0, 0, 0, 0, 0, 0, 0, 0 };
 
 
         //아이템 생성
@@ -1435,11 +1531,49 @@ public class BattleManager : MonoBehaviour
 
             if (r <= 0.25f) //무작위 장비/ 25퍼/ 누적 25퍼
             {
-                eqp.Add(new Equip());
+                string str = randomEquipPath();
+                Equip e = EquipManager.GetEquip(str + ".json", 0);
+               // e.img = str + ".jpg";
+                eqp.Add(e);
             }
             else if (r <= 0.4f) //능력치 주문서 2개/ 15퍼/ 누적 40퍼
             {
-                items[(int)itemTag.STAT] += 2;
+                float m = Random.value;
+                if (m <= 0.25f)
+                {
+                    items[(int)itemTag.STATONE]++;
+                }
+                else if (m < 0.5f)
+                {
+                    items[(int)itemTag.STATTHREE]++;
+                }
+                else if (m < 0.75f)
+                {
+                    items[(int)itemTag.STATFIVE]++;
+                }
+                else
+                {
+                    items[(int)itemTag.STATCHAOS]++;
+                }
+
+                m = Random.value;
+                if (m <= 0.25f)
+                {
+                    items[(int)itemTag.STATONE]++;
+                }
+                else if (m < 0.5f)
+                {
+                    items[(int)itemTag.STATTHREE]++;
+                }
+                else if (m < 0.75f)
+                {
+                    items[(int)itemTag.STATFIVE]++;
+                }
+                else
+                {
+                    items[(int)itemTag.STATCHAOS]++;
+                }
+
             }
             else if (r <= 0.6f) //장비 주문서 1개/ 20퍼 /누적 60퍼
             {
@@ -1463,39 +1597,70 @@ public class BattleManager : MonoBehaviour
         int i = 0;
         for (; i < eqp.Count; i++)
         {
-            addTextat(i, "무작위 장비");
+            addTextat(i, eqp[i].name);
+            changeIcon(i, eqp[i].img);
+            GameManager.GetInstatnce().AddEquipment(eqp[i]);
         }
 
         //itemTag k = itemTag.STAT;
 
-        for (itemTag k = 0; (int)k < 5; k++) {
+        for (itemTag k = 0; (int)k < 8; k++) {
             if (items[(int)k] <= 0) continue;
 
             switch (k)
             {
-                case itemTag.STAT:
-                    addTextat(i++, "능력치 주문서 " + items[(int)itemTag.STAT] + "개");
+                case itemTag.STATONE:
+                    changeIcon(i, "Field/BoxEvent/getScrollStat");
+                    addTextat(i++, "+1 능력치 주문서 " + items[(int)itemTag.STATONE] + "개");
+                    PlayerPrefs.SetInt(PrefsEntity.StatusUpgradeScrollOne, PlayerPrefs.GetInt(PrefsEntity.StatusUpgradeScrollOne) + items[(int)itemTag.STATONE]);
+
+                    break;
+
+                case itemTag.STATTHREE:
+                    changeIcon(i, "Field/BoxEvent/getScrollStat");
+                    addTextat(i++, "+3 능력치 주문서 " + items[(int)itemTag.STATTHREE] + "개");
+                    PlayerPrefs.SetInt(PrefsEntity.StatusUpgradeScrollThree, PlayerPrefs.GetInt(PrefsEntity.StatusUpgradeScrollThree) + items[(int)itemTag.STATTHREE]);
+
+                    break;
+
+                case itemTag.STATFIVE:
+                    changeIcon(i, "Field/BoxEvent/getScrollStat");
+                    addTextat(i++, "+5 능력치 주문서 " + items[(int)itemTag.STATFIVE] + "개");
+                    PlayerPrefs.SetInt(PrefsEntity.StatusUpgradeScrollFive, PlayerPrefs.GetInt(PrefsEntity.StatusUpgradeScrollFive) + items[(int)itemTag.STATFIVE]);
+
+                    break;
+
+                case itemTag.STATCHAOS:
+                    changeIcon(i, "Field/BoxEvent/getScrollStat");
+                    addTextat(i++, "랜덤 능력치 주문서 " + items[(int)itemTag.STATCHAOS] + "개");
+                    PlayerPrefs.SetInt(PrefsEntity.StatusUpgradeScrollChaos, PlayerPrefs.GetInt(PrefsEntity.StatusUpgradeScrollChaos) + items[(int)itemTag.STATCHAOS]);
 
                     break;
                 case itemTag.ENHANCE:
-                    addTextat(i++, "장비 주문서" + items[(int)itemTag.ENHANCE] + "개");
+                    changeIcon(i, "Field/BoxEvent/getScrollEquip");
+                    addTextat(i++, "장비 강화 주문서" + items[(int)itemTag.ENHANCE] + "개");
+                    PlayerPrefs.SetInt(PrefsEntity.EquipmentUpgradeScroll, PlayerPrefs.GetInt(PrefsEntity.EquipmentUpgradeScroll) + items[(int)itemTag.ENHANCE]);
 
 
                     break;
                 case itemTag.SKILL:
+                    changeIcon(i, "Field/BoxEvent/getScrollSkill");
                     addTextat(i++, "스킬 주문서 " + items[(int)itemTag.SKILL] + "개");
+                    PlayerPrefs.SetInt(PrefsEntity.SkillUpgradeScroll, PlayerPrefs.GetInt(PrefsEntity.SkillUpgradeScroll) + items[(int)itemTag.SKILL]);
 
 
                     break;
                 case itemTag.KEY:
+                    changeIcon(i, "Field/BoxEvent/getKey");
                     addTextat(i++, "열쇠 " + items[(int)itemTag.KEY] + "개");
-
+                    GameManager.GetInstatnce().AddKey(items[(int)itemTag.KEY]);
 
                     break;
                 case itemTag.DISASSEMBLE:
-                    addTextat(i++, "강화 분해 주문서 " + items[(int)itemTag.DISASSEMBLE] + "개");
-
-
+                    changeIcon(i, "Field/BoxEvent/getScrollDecomp");
+                    addTextat(i++, "장비 분해 주문서 " + items[(int)itemTag.DISASSEMBLE] + "개");
+                    PlayerPrefs.SetInt(PrefsEntity.DecomposeScroll, PlayerPrefs.GetInt(PrefsEntity.DecomposeScroll) + items[(int)itemTag.DISASSEMBLE]);
+                    
                     break;
 
             }
@@ -1508,6 +1673,14 @@ public class BattleManager : MonoBehaviour
         Text t = itemList.transform.GetChild(i).GetComponent<Text>();
         if (t == null) return;
         t.text = str;
+    }
+
+    void changeIcon(int i, string path) {
+        if (i >= itemList.transform.childCount) return;
+        itemList.transform.GetChild(i).GetChild(0).transform.gameObject.SetActive(true);
+        Image t = itemList.transform.GetChild(i).GetComponentInChildren<Image>();
+        //if (t == null) return;
+        t.sprite = Resources.Load<Sprite>(path) as Sprite;
     }
 
 }

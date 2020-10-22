@@ -110,4 +110,34 @@ public class FieldTestMode : MonoBehaviour
         tempList.Add(DataChar.getThief());
         gameManager.UpdateCharacterList(tempList);
     }
+
+    public void OnClickTestEquipment()
+    {
+        List<Equip> tempEquipment = new List<Equip>();
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Knight.Body.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Knight.Foot.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Knight.Head.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Knight.Weapon.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Knight.SubWeapon.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Thief.Body.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Thief.Foot.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Thief.Head.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Thief.Weapon.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Priest.Body.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Priest.Foot.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Priest.Head.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Priest.Weapon.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Priest.SubWeapon.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Archer.Body.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Archer.Foot.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Archer.Head.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Archer.Weapon.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Archer.SubWeapon.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Mage.Body.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Mage.Foot.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Mage.Head.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Mage.Weapon.mystic, 0));
+        tempEquipment.Add(EquipManager.GetEquip(EquipmentFilePath.Mage.SubWeapon.mystic, 0));
+        gameManager.SetEquipment(tempEquipment);
+    }
 }

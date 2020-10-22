@@ -27,6 +27,13 @@ public class PrefsEntity
     public static readonly string NumOfJail = "NumOfJail";
     public static readonly string NumOfBox = "NumOfBox";
     public static readonly string FieldEventVisibility = "FieldEventVisibility";
+    public static readonly string DecomposeScroll = "DecomposeScroll";
+    public static readonly string EquipmentUpgradeScroll = "EquipmentUpgradeScroll";
+    public static readonly string SkillUpgradeScroll = "SkillUpgradeScroll";
+    public static readonly string StatusUpgradeScrollOne = "StatusUpgradeScrollOne";
+    public static readonly string StatusUpgradeScrollThree = "StatusUpgradeScrollThree";
+    public static readonly string StatusUpgradeScrollFive = "StatusUpgradeScrollFive";
+    public static readonly string StatusUpgradeScrollChaos = "StatusUpgradeScrollChaos";
 
     public static readonly string StatUP = "StatUP";
 

@@ -674,7 +674,8 @@ public class NomalEnemyPassive4 : NormalEnemyPassives
 
 public class NormalEnemyPassive4PhyDamaged : CounterSkills{
     public NormalEnemyPassive4PhyDamaged(SkillSet set, int turn) : base(set, turn) {
-        
+
+        //set.user.phyDamagedStack.Add(this);
     }
 
     public override int updateTurn()
@@ -693,7 +694,7 @@ public class NormalEnemyPassive4MgcDamaged : CounterSkills
 {
     public NormalEnemyPassive4MgcDamaged(SkillSet set, int turn) : base(set, turn)
     {
-
+        //set.user.mgcDamagedStack.Add(this);
     }
 
     public override int updateTurn()

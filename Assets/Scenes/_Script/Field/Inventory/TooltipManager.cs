@@ -30,14 +30,15 @@ public class TooltipManager : MonoBehaviour, IPointerDownHandler, IPointerUpHand
     // Start is called before the first frame update
     void Start()
     {
-        //try
-        //{
-        //    frame = transform.parent.Find("Frame").gameObject;
-        //    frame.GetComponent<Image>().alphaHitTestMinimumThreshold = 0.5f;
-        //}catch(System.NullReferenceException e)
-        //{
+        try
+        {
+            frame = transform.parent.Find("Frame").gameObject;
+            frame.GetComponent<Image>().alphaHitTestMinimumThreshold = 0.5f;
+        }
+        catch (System.NullReferenceException e)
+        {
 
-        //}
+        }
     }
 
     // Update is called once per frame

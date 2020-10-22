@@ -23,6 +23,10 @@ public class Equip {
     public float phyDEF; // 물리방어력
     public float macATK; // 마법공격력
     public float macDEF; // 마법방어력
+    public float phyATKRate; // 물리공격력
+    public float phyDEFRate; // 물리방어력
+    public float macATKRate; // 마법공격력
+    public float macDEFRate; // 마법방어력
     public float healEFC; // 회복효율
     public float critical; // 치명타확률
 
@@ -37,23 +41,27 @@ public class Equip {
         return false;
     }
 
-    public void upgrade() {
-        if (isUpgrade())
-        {
-            level++;
-        }
-    }
+    //public void upgrade() {
+    //    if (isUpgrade())
+    //    {
+    //        level++;
+    //    }
+    //}
 
-    public float getHP() { return 1 + maxHP * (0.1f * level); }
-    public float getMP() { return 1 + maxMP * (0.1f * level); }
-    public float getIncMP() { return 1 + incMP * (0.1f * level); }
-    public float getIncAP() { return 1 + speed * (0.1f * level); }
-    public float getPhyATK() { return 1 + phyATK * (0.1f * level); }
-    public float getPhyDEF() { return 1 + phyDEF * (0.1f * level); }
-    public float getMgcATK() { return 1 + macATK * (0.1f * level); }
-    public float getMgcDEF() { return 1 + macDEF * (0.1f * level); }
-    public float getHealEFC() { return 1 + healEFC * (0.1f * level); }
-    public float getCritical() { return 1 + critical * (0.1f * level); }
+    public float getHP() { return maxHP; }
+    public float getMP() { return maxMP; }
+    public float getIncMP() { return incMP; }
+    public float getIncAP() { return speed; }
+    public float getPhyATK() { return phyATK; }
+    public float getPhyDEF() { return phyDEF; }
+    public float getMgcATK() { return  macATK; }
+    public float getMgcDEF() { return macDEF; }
+    public float getPhyATKRate() { return  phyATKRate; }
+    public float getPhyDEFRate() { return  phyDEFRate; }
+    public float getMgcATKRate() { return  macATKRate; }
+    public float getMgcDEFRate() { return  macDEFRate; }
+    public float getHealEFC() { return healEFC; }
+    public float getCritical() { return critical; }
 }
 //[System.Serializable]
 //public class EquipHead : Equip
@@ -178,7 +186,7 @@ public class EquipSet {
         set[1] = EquipManager.GetEquip(EquipmentFilePath.Thief.Body.normal, 0);
         set[2] = EquipManager.GetEquip(EquipmentFilePath.Thief.Foot.normal, 0);
         set[3] = EquipManager.GetEquip(EquipmentFilePath.Thief.Weapon.normal, 0);
-        set[4] = EquipManager.GetEquip(EquipmentFilePath.Thief.SubWeapon.normal, 0);
+        set[4] = EquipManager.GetEquip(EquipmentFilePath.Thief.Weapon.normal, 0);
     }
     void setMage()
     {
@@ -198,7 +206,7 @@ public class EquipSet {
     }
 
     public float getHP() {
-        total = 0;
+        total = 1;
         foreach (Equip e in set) {
             total += e.getHP();
         }
@@ -208,7 +216,7 @@ public class EquipSet {
 
     public float getMP()
     {
-        total = 0;
+        total = 1;
         foreach (Equip e in set)
         {
             total += e.getMP();
@@ -218,7 +226,7 @@ public class EquipSet {
     }
     public float getIncMP()
     {
-        total = 0;
+        total = 1;
         foreach (Equip e in set)
         {
             total += e.getIncMP();
@@ -228,7 +236,7 @@ public class EquipSet {
     }
     public float getIncAP()
     {
-        total = 0;
+        total = 1;
         foreach (Equip e in set)
         {
             total += e.getIncAP();
@@ -276,9 +284,49 @@ public class EquipSet {
 
         return total;
     }
+    public float getPhyATKRate()
+    {
+        total = 1;
+        foreach (Equip e in set)
+        {
+            total += e.getPhyATKRate();
+        }
+
+        return total;
+    }
+    public float getPhyDEFRate()
+    {
+        total = 1;
+        foreach (Equip e in set)
+        {
+            total += e.getPhyDEFRate();
+        }
+
+        return total;
+    }
+    public float getMgcATKRate()
+    {
+        total = 1;
+        foreach (Equip e in set)
+        {
+            total += e.getMgcATKRate();
+        }
+
+        return total;
+    }
+    public float getMgcDEFRate()
+    {
+        total = 1;
+        foreach (Equip e in set)
+        {
+            total += e.getMgcDEFRate();
+        }
+
+        return total;
+    }
     public float getHealEFC()
     {
-        total = 0;
+        total = 1;
         foreach (Equip e in set)
         {
             total += e.getHealEFC();
@@ -288,7 +336,7 @@ public class EquipSet {
     }
     public float getCritical()
     {
-        total = 0;
+        total = 1;
         foreach (Equip e in set)
         {
             total += e.getCritical();

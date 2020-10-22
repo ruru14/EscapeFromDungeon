@@ -62,7 +62,6 @@ public class SkillPanelController : MonoBehaviour
         selectedSkillSet.Add(selectedSkill1);
         selectedSkillSet.Add(selectedSkill2);
         selectedSkillSet.Add(selectedSkill3);
-        CharacterListUpdate();
         //To Test
         //EquipManager.GetEquip(EquipmentFilePath.SampleArcher);
         StartCoroutine(PanelSwapObserver());

@@ -12,6 +12,12 @@ public class CharacterPanelController : MonoBehaviour
     public GameObject characterIcon;
     public GameObject characterImage;
 
+    public GameObject equipHead;
+    public GameObject equipBody;
+    public GameObject equipFoot;
+    public GameObject equipWeapon;
+    public GameObject equipSubweapon;
+
     public GameObject selectedSkill0;
     public GameObject selectedSkill1;
     public GameObject selectedSkill2;
@@ -52,7 +58,6 @@ public class CharacterPanelController : MonoBehaviour
         characterSkillSet.Add(selectedSkill1);
         characterSkillSet.Add(selectedSkill2);
         characterSkillSet.Add(selectedSkill3);
-        CharacterListUpdate();
         //To Test
         //EquipManager.GetEquip(EquipmentFilePath.SampleArcher);
         StartCoroutine(PanelSwapObserver());
@@ -114,31 +119,31 @@ public class CharacterPanelController : MonoBehaviour
                 case "Thief":
                     characterList[i].transform.Find("CharacterImage").GetComponent<Image>().sprite = Resources.Load<Sprite>(Resource.ThiefIcon) as Sprite;
                     characterList[i].GetComponent<Button>().onClick.AddListener(() => {
-                        CharacterInformation(iconIndex);
+                        CharacterSelect(iconIndex);
                     });
                     break;
                 case "Archer":
                     characterList[i].transform.Find("CharacterImage").GetComponent<Image>().sprite = Resources.Load<Sprite>(Resource.ArcherIcon) as Sprite;
                     characterList[i].GetComponent<Button>().onClick.AddListener(() => {
-                        CharacterInformation(iconIndex);
+                        CharacterSelect(iconIndex);
                     });
                     break;
                 case "Mage":
                     characterList[i].transform.Find("CharacterImage").GetComponent<Image>().sprite = Resources.Load<Sprite>(Resource.MagicianIcon) as Sprite;
                     characterList[i].GetComponent<Button>().onClick.AddListener(() => {
-                        CharacterInformation(iconIndex);
+                        CharacterSelect(iconIndex);
                     });
                     break;
                 case "Knight":
                     characterList[i].transform.Find("CharacterImage").GetComponent<Image>().sprite = Resources.Load<Sprite>(Resource.KnightIcon) as Sprite;
                     characterList[i].GetComponent<Button>().onClick.AddListener(() => {
-                        CharacterInformation(iconIndex);
+                        CharacterSelect(iconIndex);
                     });
                     break;
                 case "Priest":
                     characterList[i].transform.Find("CharacterImage").GetComponent<Image>().sprite = Resources.Load<Sprite>(Resource.PriestIcon) as Sprite;
                     characterList[i].GetComponent<Button>().onClick.AddListener(() => {
-                        CharacterInformation(iconIndex);
+                        CharacterSelect(iconIndex);
                     });
                     break;
                 default:
@@ -162,9 +167,19 @@ public class CharacterPanelController : MonoBehaviour
             characterSkillSet[i].transform.Find("SkillIcon").GetComponent<Image>().color = new Color(0, 0, 0, 0);
         }
 
+        equipHead.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(0, 0, 0, 0);
+        equipBody.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(0, 0, 0, 0);
+        equipFoot.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(0, 0, 0, 0);
+        equipWeapon.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(0, 0, 0, 0);
+        equipSubweapon.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(0, 0, 0, 0);
     }
 
-    public void CharacterInformation(int index)
+    public void CharacterSelect(int index)
     {
         Debug.Log("Test : " + index);
         hp.text = characterData[index].curHP.ToString() + " / " + characterData[index].getMaxHP().ToString();
@@ -221,6 +236,53 @@ public class CharacterPanelController : MonoBehaviour
                 characterData[index].charSkillSet.set[skillNumber], skillNumber, IconType.Skill,
                 characterData[index].cls, characterData[index].charSkillSet.set[skillNumber].type);
         }
+
+        ShowCharacterEquipment(index);
+
+    }
+
+
+    private void ShowCharacterEquipment(int index)
+    {
+        equipHead.transform.Find("ItemImage").gameObject.GetComponent<Image>().sprite
+                = Resources.Load<Sprite>(characterData[index].charEquipSet.set[0].img) as Sprite;
+        equipHead.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(1, 1, 1, 1);
+        equipHead.gameObject
+            .AddComponent<TooltipManager>()
+            .SetEquip(characterData[index].charEquipSet.set[0], index, IconType.Equipment);
+
+        equipBody.transform.Find("ItemImage").gameObject.GetComponent<Image>().sprite
+                = Resources.Load<Sprite>(characterData[index].charEquipSet.set[1].img) as Sprite;
+        equipBody.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(1, 1, 1, 1);
+        equipBody.gameObject
+            .AddComponent<TooltipManager>()
+            .SetEquip(characterData[index].charEquipSet.set[1], index, IconType.Equipment);
+
+        equipFoot.transform.Find("ItemImage").gameObject.GetComponent<Image>().sprite
+                = Resources.Load<Sprite>(characterData[index].charEquipSet.set[2].img) as Sprite;
+        equipFoot.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(1, 1, 1, 1);
+        equipFoot.gameObject
+            .AddComponent<TooltipManager>()
+            .SetEquip(characterData[index].charEquipSet.set[2], index, IconType.Equipment);
+
+        equipWeapon.transform.Find("ItemImage").gameObject.GetComponent<Image>().sprite
+                = Resources.Load<Sprite>(characterData[index].charEquipSet.set[3].img) as Sprite;
+        equipWeapon.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(1, 1, 1, 1);
+        equipWeapon.gameObject
+            .AddComponent<TooltipManager>()
+            .SetEquip(characterData[index].charEquipSet.set[3], index, IconType.Equipment);
+
+        equipSubweapon.transform.Find("ItemImage").gameObject.GetComponent<Image>().sprite
+                = Resources.Load<Sprite>(characterData[index].charEquipSet.set[4].img) as Sprite;
+        equipSubweapon.transform.Find("ItemImage").gameObject.GetComponent<Image>().color
+            = new Color(1, 1, 1, 1);
+        equipSubweapon.gameObject
+            .AddComponent<TooltipManager>()
+            .SetEquip(characterData[index].charEquipSet.set[4], index, IconType.Equipment);
 
     }
 }

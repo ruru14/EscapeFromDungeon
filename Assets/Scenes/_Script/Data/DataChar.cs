@@ -34,7 +34,7 @@ public class DataChar// : MonoBehaviour
     public float mgcDEF;//마법방 + 장비방
 
     [Header("- Speed, Critical")]
-    public float spd;//속도
+    public float spd;//속도, 공갈값
     public float critical;//크리티컬 확률
 
     //public float acc;//명중
@@ -93,7 +93,7 @@ public class DataChar// : MonoBehaviour
 
     public static DataChar getMage()
     {
-        DataChar tmp =  new DataChar("Mage", 55, 70, 25.0f, 12, 10, 22, 16, 0, 0.1f);
+        DataChar tmp = new DataChar("Mage", 55, 70, 25.0f, 12, 10, 22, 16, 0, 0.1f);
         tmp.charSkillSet = new SkillMage();
         tmp.charEquipSet = new EquipSet(2);
         return tmp;
@@ -101,7 +101,7 @@ public class DataChar// : MonoBehaviour
 
     public static DataChar getPriest()
     {
-        DataChar tmp =  new DataChar("Priest", 60, 65, 24.0f, 12, 12, 17, 16, 0, 0.05f);
+        DataChar tmp = new DataChar("Priest", 60, 65, 24.0f, 12, 12, 17, 16, 0, 0.05f);
         tmp.charSkillSet = new SkillPriest();
         tmp.charEquipSet = new EquipSet(4);
         return tmp;
@@ -115,10 +115,48 @@ public class DataChar// : MonoBehaviour
         return tmp;
     }
 
-    public float getPhyATK() { return phyATK; }
-    public float getPhyDEF() { return phyDEF; }
-    public float getMgcATK() { return mgcATK; }
-    public float getMgcDEF() { return mgcDEF; }
-    public float getIncAP() { return incAP; }
+    public float getPhyATK() { return phyATK + charEquipSet.getPhyATK(); }
+    public float getPhyDEF() { return phyDEF + charEquipSet.getPhyDEF(); }
+    public float getMgcATK() { return mgcATK + charEquipSet.getMgcATK(); }
+    public float getMgcDEF() { return mgcDEF + charEquipSet.getMgcDEF(); }
+    public float getIncAP() { return incAP + charEquipSet.getIncAP(); ; }
     public float getSPD() { return spd; }
+
+    public void upMaxHP()
+    {
+        float tmp = maxHP;
+        maxHP += 5;
+
+        curHP *= maxHP / tmp;
+    }
+    public void upMaxMP()
+    {
+        float tmp = maxMP;
+        maxMP += 5;
+
+        curMP *= maxMP / tmp;
+    }
+
+    public void upPhyATK()
+    {
+        phyATK += 2;
+    }
+    public void upPhyDEF()
+    {
+        phyATK += 1;
+    }
+    public void upMgcATK()
+    {
+        phyATK += 2;
+    }
+    public void upMgcDEF()
+    {
+        phyATK += 1;
+    }
+    public void upIncAP() {
+        incAP += 5;
+    }
+    public void upCritical() {
+        critical += 0.1f;
+    }
 }

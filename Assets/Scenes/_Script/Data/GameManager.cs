@@ -118,6 +118,7 @@ public class GameManager
     public void SetEquipment(List<Equip> newEquipment)
     {
         equipmentList = newEquipment;
+        Save();
     }
 
     public void AddKey(int key)

@@ -102,6 +102,7 @@ public class EquipManager
         Equip equip = new Equip();
         equip.img = equipData.equipment[equipLevel].img;
         equip.name = equipData.equipment[equipLevel].name;
+        equip.grade = equipData.equipment[equipLevel].grade;
         equip.type = equipData.equipment[equipLevel].type;
         equip.cls = equipData.equipment[equipLevel].cls;
         equip.maxHP = equipData.equipment[equipLevel].maxHP;

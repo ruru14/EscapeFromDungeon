@@ -42,14 +42,6 @@ public class EquipmentFilePath
             public static readonly string unique = "./Assets/Scenes/Resources/Equipment/Thief/Weapon/thiefUniqueWeapon.json";
             public static readonly string mystic = "./Assets/Scenes/Resources/Equipment/Thief/Weapon/thiefMysticWeapon.json";
         }
-        public class SubWeapon //Thief not have subweapon
-        {
-            private SubWeapon() { }
-            public static readonly string normal = "./Assets/Scenes/Resources/Equipment/Thief/Subweapon/thiefNormalSubweapon.json";
-            public static readonly string rare = "./Assets/Scenes/Resources/Equipment/Thief/Subweapon/thiefRareSubweapon.json";
-            public static readonly string unique = "./Assets/Scenes/Resources/Equipment/Thief/Subweapon/thiefUniqueSubweapon.json";
-            public static readonly string mystic = "./Assets/Scenes/Resources/Equipment/Thief/Subweapon/thiefMysticSubweapon.json";
-        }
     }
 
     public class Archer

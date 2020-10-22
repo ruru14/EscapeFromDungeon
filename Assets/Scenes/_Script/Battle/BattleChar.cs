@@ -96,6 +96,9 @@ public class BattleChar : MonoBehaviour
         eDebuffStack = new List<Buff>();
         dieStack = new List<Buff>();
         stigma = 0;
+        damagedStack = new List<CounterSkills>();
+        phyDamagedStack = new List<CounterSkills>();
+        mgcDamagedStack = new List<CounterSkills>();
 
         BM = GameObject.Find("BattleManager").GetComponent<BattleManager>();
         animator = GetComponentInChildren<Animator>();
@@ -109,9 +112,6 @@ public class BattleChar : MonoBehaviour
         healSwitch = true;
 
         killStack = new List<Skill>();
-        damagedStack = new List<CounterSkills>();
-        phyDamagedStack = new List<CounterSkills>();
-        mgcDamagedStack = new List<CounterSkills>();
 
         //각종 버프들 / 0으로 초기화
         ClearBuff();
@@ -438,22 +438,22 @@ public class BattleChar : MonoBehaviour
 
     public float GetPhyATK()
     {
-        return DC.getPhyATK() * (buffPhyATK + DC.charEquipSet.getPhyATK());
+        return DC.getPhyATK() * (buffPhyATK + DC.charEquipSet.getPhyATKRate());
     }
 
     public float GetPhyDEF()
     {
-        return DC.getPhyDEF() * (buffPhyDEF + DC.charEquipSet.getPhyDEF());
+        return DC.getPhyDEF() * (buffPhyDEF + DC.charEquipSet.getPhyDEFRate());
     }
 
     public float GetMgcATK()
     {
-        return DC.getMgcATK() * (buffMgcATK + DC.charEquipSet.getMgcATK());
+        return DC.getMgcATK() * (buffMgcATK + DC.charEquipSet.getMgcATKRate());
     }
 
     public float GetMgcDEF()
     {
-        return DC.getMgcDEF() * (buffMgcDEF + DC.charEquipSet.getMgcDEF());
+        return DC.getMgcDEF() * (buffMgcDEF + DC.charEquipSet.getMgcDEFRate());
     }
 
     public float GetIncAP() {
